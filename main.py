@@ -1,52 +1,33 @@
-import pandas as pd
-import win32com.client as win32
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
-# importar a base de dados
-tabela_vendas = pd.read_excel('movimento.xlsx')
+# Informações do remetente e destinatário
+sender_email = "lbortoletti@gmail.com"
+receiver_email = "lbortoletti@gmail.com"
+password = "erfk nddl dqqj xabr"
 
-# visualizar a base de dados
-pd.set_option('display.max_columns', None)
-print(tabela_vendas)
+# Configurar a mensagem
+subject = "Assunto do E-mail - teste"
+body = "Corpo do e-mail, aqui vai a mensagem."
 
-# faturamento por loja
-faturamento = tabela_vendas[['ID Loja', 'Valor Final']].groupby('ID Loja').sum()
-print(faturamento)
+msg = MIMEMultipart()
+msg['From'] = sender_email
+msg['To'] = receiver_email
+msg['Subject'] = subject
 
-# quantidade de produtos vendidos por loja
-quantidade = tabela_vendas[['ID Loja', 'Quantidade']].groupby('ID Loja').sum()
-print(quantidade)
+# Anexar o corpo da mensagem
+msg.attach(MIMEText(body, 'plain'))
 
-print('-' * 50)
-# ticket médio por produto em cada loja
-ticket_medio = (faturamento['Valor Final'] / quantidade['Quantidade']).to_frame()
-ticket_medio = ticket_medio.rename(columns={0: 'Ticket Médio'})
-print(ticket_medio)
-
-# enviar um email com o relatório
-outlook = win32.Dispatch('outlook.application')
-mail = outlook.CreateItem(0)
-mail.To = 'pythonimpressionador@gmail.com'
-mail.Subject = 'Relatório de Vendas por Loja'
-mail.HTMLBody = f'''
-<p>Prezados,</p>
-
-<p>Segue o Relatório de Vendas por cada Loja.</p>
-
-<p>Faturamento:</p>
-{faturamento.to_html(formatters={'Valor Final': 'R${:,.2f}'.format})}
-
-<p>Quantidade Vendida:</p>
-{quantidade.to_html()}
-
-<p>Ticket Médio dos Produtos em cada Loja:</p>
-{ticket_medio.to_html(formatters={'Ticket Médio': 'R${:,.2f}'.format})}
-
-<p>Qualquer dúvida estou à disposição.</p>
-
-<p>Att.,</p>
-<p>Lira</p>
-'''
-
-mail.Send()
-
-print('Email Enviado')
+# Conectar ao servidor SMTP do Gmail e enviar o e-mail
+try:
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.starttls()  # Iniciar a conexão TLS
+    server.login(sender_email, password)
+    text = msg.as_string()
+    server.sendmail(sender_email, receiver_email, text)
+    print("E-mail enviado com sucesso!")
+except Exception as e:
+    print(f"Ocorreu um erro ao enviar o e-mail: {e}")
+finally:
+    server.quit()
