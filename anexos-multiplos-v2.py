@@ -1,5 +1,7 @@
 import os
+import glob
 import re
+import json
 from datetime import datetime
 import smtplib
 from email.mime.base import MIMEBase
@@ -8,6 +10,18 @@ from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 from email import encoders
 import random
+import time
+
+
+
+server = smtplib.SMTP('smtp-relay.gmail.com', 587)
+server.starttls()  # Iniciar a conexão TLS
+
+# Conectar ao servidor SMTP do Gmail e enviar o e-mail
+conta_email = "luis.bortoletti@gruposouzalima.com"
+password = "Borto!2024#01"
+server.login( conta_email , password)
+
 
 
 def getTimestampFmt2():
@@ -23,27 +37,39 @@ class Destino:
         return f"Destino(nome={self.nome}, email={self.email})"
 
 
-def sendEmail( fileParam, destinoParam, toAddressParam ):
-    from_address    = "juridico.ia.gruposouzalima@gmail.com"
-    to_address = toAddressParam 
+def sendEmail( fileParam, destinoParam ):
+    global server
+    from_address    = "juridico.publicacao@gruposouzalima.com"
+
+    to_address = destinoParam.email 
+
+    # arquivo JSON
+    jsonFile = re.sub(r'\.pdf$', '.json', fileParam )
+    reg = None
+    #print( jsonFile )
+    with open(  jsonFile , "rb") as jsonConteudo:
+        reg = json.loads(  jsonConteudo.read() )
+        #print( reg['id'] )
 
     #to_address      = 'flavia.coelho@gruposouzalima.com'
     #to_address      = 'brenno.cardoso@gruposouzalima.com' 
 
-    #cc_address      = []
+    cc_address      = []
+    cc_address.append( 'neusa.sotana@gruposouzalima.com' )
+    cc_address.append( 'mariana.gallo@gruposouzalima.com' )
+    cc_address.append( 'luis.bortoletti@gruposouzalima.com' )
     #cc_address.append( 'brenno.cardoso@gruposouzalima.com' )
-    #cc_address.append( 'luis.bortoletti@gruposouzalima.com' )
-    #cc_address.append( 'neusa.sotana@gruposouzalima.com' )
-    #cc_address.append( 'mariana.gallo@gruposouzalima.com' )
 
     # Configurar a mensagem
-    subject = f"Publicação - {destinoParam.nome} - {getTimestampFmt2()}-{random.randint(1, 10)}  "
 
+    subject = f"{destino.nome}"
+    subject = f"{subject} - {reg['processo'].replace(':','')}"
+    subject = f"{subject} - {reg['id']} - {getTimestampFmt2()}-{random.randint(1, 10)} "
 
     msg = MIMEMultipart()
     msg['From'] = from_address
     msg['To'] = to_address
-    #msg['Cc'] = ', '.join(cc_address)  # Adicionando os endereços de Cc
+    msg['Cc'] = ', '.join(cc_address)  # Adicionando os endereços de Cc
     msg['Subject'] = subject
 
     # Anexando a imagem
@@ -57,11 +83,14 @@ def sendEmail( fileParam, destinoParam, toAddressParam ):
     <body>
         <img src="cid:logo">
         <p>Olá, {destinoParam.nome}
-        <br>Teste de mensagens
+        <br>Processo: {reg['processo']}
         </p>
+        <hr>
+        <pre>{reg['linha']}</pre>
     </body>
     </html>
     """
+
 
     # Anexar o corpo da mensagem
     with open( fileParam, "rb") as attachment:
@@ -82,23 +111,31 @@ def sendEmail( fileParam, destinoParam, toAddressParam ):
         msg.attach(part)
     #=========================================================
     # Conectar ao servidor SMTP do Gmail e enviar o e-mail
+    text = msg.as_string()
+
+    from_address    = "juridico.publicacao@gruposouzalima.com"
+    
+
+    cc_address      = []
+    cc_address.append( 'luis.bortoletti@gruposouzalima.com' )
+    cc_address.append( 'neusa.sotana@gruposouzalima.com' )
+    cc_address.append( 'mariana.gallo@gruposouzalima.com' )
+    #cc_address.append( 'brenno.cardoso@gruposouzalima.com' )
+    #for emailDestino in to_address:
+    # server.sendmail( from_address , to_address, text)
     try:
-        text = msg.as_string()
+        server.sendmail( from_address , [to_address] + cc_address, text)
+    
+        print( f"{subject}; de: {from_address} para: {to_address}")
+        try:
+            os.remove( fileParam )
+            os.remove( jsonFile )
+        except:
+            pass
 
-        account_address = "juridico.ia.gruposouzalima@gmail.com"
-        password = "atbj yvro izgp edhc"
-
-        server = smtplib.SMTP('smtp.gmail.com', 587)
-        server.starttls()  # Iniciar a conexão TLS
-        server.login(account_address , password)
-
-        #server.sendmail( from_address , [to_address] + cc_address, text)
-        # server.sendmail( from_address , to_address, text)
-        print("E-mail enviado com sucesso!")
-    except Exception as e:
-        print(f"Ocorreu um erro ao enviar o e-mail: {e}")
-    finally:
-        server.quit()
+        time.sleep(3)
+    except:
+       pass
 
 
 '''
@@ -168,35 +205,43 @@ def sendEmail( fileParam, destinoParam, toAddressParam ):
 #============================================================
 
 destinos = {}
-destinos["dra-ana"] = Destino("Dra Ana", "flavia.coelho@gruposouzalima.com")
-destinos["dra-mariana"] = Destino("Dra Mariana", "flavia.coelho@gruposouzalima.com")
-destinos["dra-nelia"] = Destino("Dra Nelia", "flavia.coelho@gruposouzalima.com")
-destinos["dra-neusa"] = Destino("Dra Neusa", "flavia.coelho@gruposouzalima.com")
-destinos["dra-simone"] = Destino("Dra Simone", "flavia.coelho@gruposouzalima.com")
-destinos["dra-alecsandro"] = Destino("Dra Simone", "flavia.coelho@gruposouzalima.com")
+destinos["dr-alecsandro"] = Destino("Dr Alecsandro", "alecsandro.silva@gruposouzalima.com")
+destinos["dra-ana"] = Destino("Dra Ana", "ana.takahashi@gruposouzalima.com")
+destinos["dra-lais"] = Destino("Dra Lais", "lais.goncalves@gruposouzalima.com")
+destinos["dra-mariana"] = Destino("Dra Mariana", "mariana.gallo@gruposouzalima.com")
+destinos["dra-nelia"] = Destino("Dra Nelia", "nelia.fernandes@gruposouzalima.com")
+destinos["dra-neusa"] = Destino("Dra Neusa", "neusa.sotana@gruposouzalima.com")
+destinos["dr-rafael"] = Destino("Dr Rafael", "rafael.santos@gruposouzalima.com")
+destinos["dra-raquel"] = Destino("Dra Raquel", "rafael.santos@gruposouzalima.com")
+destinos["dra-simone"] = Destino("Dra Simone", "simone.vieira@gruposouzalima.com")
 
 lista = []
 lista.append( 'luis.bortoletti@gruposouzalima.com' )
+"""
 lista.append( 'brenno.cardoso@gruposouzalima.com' )
 lista.append( 'flavia.coelho@gruposouzalima.com' )
 lista.append( 'neusa.sotana@gruposouzalima.com' )
 lista.append( 'mariana.gallo@gruposouzalima.com' )
-
+"""
 
 
 # Especificar o diretório
 diretorio = "/opt/bitnami/nginx/html/py-ocr/src/publicacoes-v2/saida"
+#diretorio = "/opt/bitnami/nginx/html/py-email-send/tmp"
+
 
 for chave, destino in destinos.items():
     print( f"{chave} - {destino}")
 
     # Listar todos os arquivos no diretório
     arquivos = os.listdir(diretorio)
+    arquivos = glob.glob(os.path.join(diretorio, '*.pdf'))
 
     for arquivo in arquivos:
       if( re.search( chave, arquivo ) ):
         print( f"{arquivo}")
-        for endereco in lista:
-            sendEmail( f"{diretorio}/{arquivo}", destino, endereco  )
+        #destino.email = "luis.bortoletti@gruposouzalima.com"
+        sendEmail( f"{arquivo}", destino  )
 
 
+server.quit()

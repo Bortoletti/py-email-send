@@ -22,7 +22,21 @@ destinos["lbortoletti2@gmail.com"] = destino3
 destinos["lbortoletti3@gmail.com"] = destino3
 destinos["lbortoletti4@gmail.com"] = destino3
 
+destinos2 = {}
+destinos2["lbortoletti@gmail.com"] = destino3
+destinos2["lbortoletti2@gmail.com"] = destino3
+destinos2["lbortoletti3@gmail.com"] = destino3
+destinos2["lbortoletti4@gmail.com"] = destino3
+
 for chave, valor in destinos.items():
     print( f"{chave} - {valor}")
 
 
+print( f"{destinos}, {destinos2}")
+
+lista = []
+lista.append("teste")
+lista.append("teste 99")
+
+for item in lista:
+    print(f"{item}")
