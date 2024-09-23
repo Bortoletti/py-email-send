@@ -1,0 +1,133 @@
+2024-09-18-14:07:05: ====================   INICIO   ========================
+2024-09-18-14:07:06: controle - 'destino':'chave':'controle','nome':'controle', 'email':'neusa.sotana@gruposouzalima.com'
+2024-09-18-14:07:06: dr-alecsandro - 'destino':'chave':'dr-alecsandro','nome':'Dr Alecsandro', 'email':'alecsandro.silva@gruposouzalima.com'
+2024-09-18-14:07:06: dra-ana - 'destino':'chave':'dra-ana','nome':'Dra Ana', 'email':'ana.takahashi@gruposouzalima.com'
+2024-09-18-14:07:06: dra-mariana - 'destino':'chave':'dra-mariana','nome':'Dra Mariana', 'email':'mariana.gallo@gruposouzalima.com'
+2024-09-18-14:07:06: dra-nelia - 'destino':'chave':'dra-nelia','nome':'Dra Nelia', 'email':'nelia.fernandes@gruposouzalima.com'
+2024-09-18-14:07:06: dra-neusa - 'destino':'chave':'dra-neusa','nome':'Dra Neusa', 'email':'neusa.sotana@gruposouzalima.com'
+2024-09-18-14:07:06: dr-rafael - 'destino':'chave':'dr-rafael','nome':'Dr Rafael', 'email':'rafael.santos@gruposouzalima.com'
+2024-09-18-14:07:06: dra-raquel - 'destino':'chave':'dra-raquel','nome':'Dra Raquel', 'email':'raquel.fonseca@gruposouzalima.com'
+2024-09-18-14:07:06: dra-simone - 'destino':'chave':'dra-simone','nome':'Dra Simone', 'email':'simone.vieira@gruposouzalima.com'
+2024-09-18-14:07:06: dra-maria-avelino - 'destino':'chave':'dra-maria-avelino','nome':'Dra Maria Avelino', 'email':'maria.avelino@gruposouzalima.com'
+2024-09-18-14:07:06: dra-vania - 'destino':'chave':'dra-vania','nome':'Dra Vania', 'email':'vania.moura@gruposouzalima.com'
+2024-09-18-14:07:06: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000230-61.2023.5.02.0382-5624-dra-vania-2024-09-18-12:10-236.pdf
+2024-09-18-14:07:06: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:06: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000230-61.2023.5.02.0382-5624-dra-vania-2024-09-18-12:10-236.pdf
+2024-09-18-14:07:06: Chave...: dra-vania
+2024-09-18-14:07:06: Nome....: Dra Vania
+2024-09-18-14:07:06: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:06: Assunto..: Dra Vania - 1000230-61.2023.5.02.0382 - 5624 - 2024-09-18-14:07:06-7 
+2024-09-18-14:07:06: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:06: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:08: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:08: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001085-20.2023.5.09.0008-7531-dra-vania-2024-09-18-12:10-244.pdf
+2024-09-18-14:07:08: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:08: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001085-20.2023.5.09.0008-7531-dra-vania-2024-09-18-12:10-244.pdf
+2024-09-18-14:07:08: Chave...: dra-vania
+2024-09-18-14:07:08: Nome....: Dra Vania
+2024-09-18-14:07:08: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:08: Assunto..: Dra Vania - 0001085-20.2023.5.09.0008 - 7531 - 2024-09-18-14:07:08-2 
+2024-09-18-14:07:08: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:08: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:11: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:11: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010739-20.2022.5.15.0066-3936-dra-vania-2024-09-18-12:10-616.pdf
+2024-09-18-14:07:11: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:11: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010739-20.2022.5.15.0066-3936-dra-vania-2024-09-18-12:10-616.pdf
+2024-09-18-14:07:11: Chave...: dra-vania
+2024-09-18-14:07:11: Nome....: Dra Vania
+2024-09-18-14:07:11: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:11: Assunto..: Dra Vania - 0010739-20.2022.5.15.0066 - 3936 - 2024-09-18-14:07:11-5 
+2024-09-18-14:07:11: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:11: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:13: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:13: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010360-33.2023.5.03.0178-2045-dra-vania-2024-09-18-12:10-570.pdf
+2024-09-18-14:07:13: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:13: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010360-33.2023.5.03.0178-2045-dra-vania-2024-09-18-12:10-570.pdf
+2024-09-18-14:07:13: Chave...: dra-vania
+2024-09-18-14:07:13: Nome....: Dra Vania
+2024-09-18-14:07:13: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:13: Assunto..: Dra Vania - 0010360-33.2023.5.03.0178 - 2045 - 2024-09-18-14:07:13-1 
+2024-09-18-14:07:13: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:13: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:16: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:16: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010739-20.2022.5.15.0066-3935-dra-vania-2024-09-18-12:10-282.pdf
+2024-09-18-14:07:16: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:16: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010739-20.2022.5.15.0066-3935-dra-vania-2024-09-18-12:10-282.pdf
+2024-09-18-14:07:16: Chave...: dra-vania
+2024-09-18-14:07:16: Nome....: Dra Vania
+2024-09-18-14:07:16: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:16: Assunto..: Dra Vania - 0010739-20.2022.5.15.0066 - 3935 - 2024-09-18-14:07:16-4 
+2024-09-18-14:07:16: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:16: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:18: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:18: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001085-20.2023.5.09.0008-7532-dra-vania-2024-09-18-12:10-313.pdf
+2024-09-18-14:07:18: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:18: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001085-20.2023.5.09.0008-7532-dra-vania-2024-09-18-12:10-313.pdf
+2024-09-18-14:07:18: Chave...: dra-vania
+2024-09-18-14:07:18: Nome....: Dra Vania
+2024-09-18-14:07:18: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:18: Assunto..: Dra Vania - 0001085-20.2023.5.09.0008 - 7532 - 2024-09-18-14:07:18-5 
+2024-09-18-14:07:18: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:18: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:21: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:21: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011308-25.2023.5.03.0129-13468-dra-vania-2024-09-18-12:10-942.pdf
+2024-09-18-14:07:21: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:21: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011308-25.2023.5.03.0129-13468-dra-vania-2024-09-18-12:10-942.pdf
+2024-09-18-14:07:21: Chave...: dra-vania
+2024-09-18-14:07:21: Nome....: Dra Vania
+2024-09-18-14:07:21: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:21: Assunto..: Dra Vania - 0011308-25.2023.5.03.0129 - 13468 - 2024-09-18-14:07:21-8 
+2024-09-18-14:07:21: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:21: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:23: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:23: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001085-20.2023.5.09.0008-7533-dra-vania-2024-09-18-12:10-769.pdf
+2024-09-18-14:07:23: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:23: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001085-20.2023.5.09.0008-7533-dra-vania-2024-09-18-12:10-769.pdf
+2024-09-18-14:07:23: Chave...: dra-vania
+2024-09-18-14:07:23: Nome....: Dra Vania
+2024-09-18-14:07:23: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:23: Assunto..: Dra Vania - 0001085-20.2023.5.09.0008 - 7533 - 2024-09-18-14:07:23-1 
+2024-09-18-14:07:23: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:23: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:26: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:26: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000230-61.2023.5.02.0382-5625-dra-vania-2024-09-18-12:10-494.pdf
+2024-09-18-14:07:26: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:26: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000230-61.2023.5.02.0382-5625-dra-vania-2024-09-18-12:10-494.pdf
+2024-09-18-14:07:26: Chave...: dra-vania
+2024-09-18-14:07:26: Nome....: Dra Vania
+2024-09-18-14:07:26: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:26: Assunto..: Dra Vania - 1000230-61.2023.5.02.0382 - 5625 - 2024-09-18-14:07:26-5 
+2024-09-18-14:07:26: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:26: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:28: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:28: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011308-25.2023.5.03.0129-13465-dra-vania-2024-09-18-12:10-939.pdf
+2024-09-18-14:07:28: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:28: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011308-25.2023.5.03.0129-13465-dra-vania-2024-09-18-12:10-939.pdf
+2024-09-18-14:07:28: Chave...: dra-vania
+2024-09-18-14:07:28: Nome....: Dra Vania
+2024-09-18-14:07:28: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:28: Assunto..: Dra Vania - 0011308-25.2023.5.03.0129 - 13465 - 2024-09-18-14:07:28-8 
+2024-09-18-14:07:28: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:28: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:31: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:31: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010395-17.2022.5.03.0149-4-dra-vania-2024-09-18-12:10-495.pdf
+2024-09-18-14:07:31: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:31: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010395-17.2022.5.03.0149-4-dra-vania-2024-09-18-12:10-495.pdf
+2024-09-18-14:07:31: Chave...: dra-vania
+2024-09-18-14:07:31: Nome....: Dra Vania
+2024-09-18-14:07:31: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:31: Assunto..: Dra Vania - 0010395-17.2022.5.03.0149 - 4 - 2024-09-18-14:07:31-10 
+2024-09-18-14:07:31: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:31: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:33: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:33: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010360-33.2023.5.03.0178-2046-dra-vania-2024-09-18-12:10-737.pdf
+2024-09-18-14:07:33: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-18-14:07:33: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010360-33.2023.5.03.0178-2046-dra-vania-2024-09-18-12:10-737.pdf
+2024-09-18-14:07:33: Chave...: dra-vania
+2024-09-18-14:07:33: Nome....: Dra Vania
+2024-09-18-14:07:33: Email...: vania.moura@gruposouzalima.com
+2024-09-18-14:07:33: Assunto..: Dra Vania - 0010360-33.2023.5.03.0178 - 2046 - 2024-09-18-14:07:33-8 
+2024-09-18-14:07:33: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-18-14:07:33: to.......:['vania.moura@gruposouzalima.com']
+2024-09-18-14:07:36: ****************************   EMAIL ENVIADO   ****************************
+2024-09-18-14:07:36: ====================   FIM   ========================

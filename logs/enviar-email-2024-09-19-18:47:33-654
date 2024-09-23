@@ -1,0 +1,709 @@
+2024-09-19-18:47:33: ====================   INICIO   ========================
+2024-09-19-18:47:33: controle - 'destino':'chave':'controle','nome':'controle', 'email':'neusa.sotana@gruposouzalima.com'
+2024-09-19-18:47:33: dr-alecsandro - 'destino':'chave':'dr-alecsandro','nome':'Dr Alecsandro', 'email':'alecsandro.silva@gruposouzalima.com'
+2024-09-19-18:47:33: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dr-alecsandro-2024-09-19-18:46-994.pdf
+2024-09-19-18:47:33: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:33: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dr-alecsandro-2024-09-19-18:46-994.pdf
+2024-09-19-18:47:33: Chave...: dr-alecsandro
+2024-09-19-18:47:33: Nome....: Dr Alecsandro
+2024-09-19-18:47:33: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:33: Assunto..: Dr Alecsandro - 0010974-12.2022.5.03.0004 - 5340 - 2024-09-19-18:47:33-9 
+2024-09-19-18:47:33: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:33: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:36: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:36: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13079-dr-alecsandro-2024-09-19-18:46-199.pdf
+2024-09-19-18:47:36: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:36: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13079-dr-alecsandro-2024-09-19-18:46-199.pdf
+2024-09-19-18:47:36: Chave...: dr-alecsandro
+2024-09-19-18:47:36: Nome....: Dr Alecsandro
+2024-09-19-18:47:36: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:36: Assunto..: Dr Alecsandro - 1000889-17.2022.5.02.0605 - 13079 - 2024-09-19-18:47:36-6 
+2024-09-19-18:47:36: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:36: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:38: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:38: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13075-dr-alecsandro-2024-09-19-18:46-260.pdf
+2024-09-19-18:47:38: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:38: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13075-dr-alecsandro-2024-09-19-18:46-260.pdf
+2024-09-19-18:47:38: Chave...: dr-alecsandro
+2024-09-19-18:47:38: Nome....: Dr Alecsandro
+2024-09-19-18:47:38: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:38: Assunto..: Dr Alecsandro - 1000889-17.2022.5.02.0605 - 13075 - 2024-09-19-18:47:38-1 
+2024-09-19-18:47:38: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:38: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:41: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:41: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dr-alecsandro-2024-09-19-18:46-301.pdf
+2024-09-19-18:47:41: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:41: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dr-alecsandro-2024-09-19-18:46-301.pdf
+2024-09-19-18:47:41: Chave...: dr-alecsandro
+2024-09-19-18:47:41: Nome....: Dr Alecsandro
+2024-09-19-18:47:41: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:41: Assunto..: Dr Alecsandro - 0011016-86.2022.5.03.0028 - 10250 - 2024-09-19-18:47:41-2 
+2024-09-19-18:47:41: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:41: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:43: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:43: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18299-dr-alecsandro-2024-09-19-18:46-172.pdf
+2024-09-19-18:47:43: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:43: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18299-dr-alecsandro-2024-09-19-18:46-172.pdf
+2024-09-19-18:47:43: Chave...: dr-alecsandro
+2024-09-19-18:47:43: Nome....: Dr Alecsandro
+2024-09-19-18:47:43: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:43: Assunto..: Dr Alecsandro - 0011572-46.2022.5.15.0128 - 18299 - 2024-09-19-18:47:43-1 
+2024-09-19-18:47:43: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:43: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:45: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:45: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000723-65.2022.5.02.0255-20368-dr-alecsandro-2024-09-19-18:46-795.pdf
+2024-09-19-18:47:45: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:45: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000723-65.2022.5.02.0255-20368-dr-alecsandro-2024-09-19-18:46-795.pdf
+2024-09-19-18:47:45: Chave...: dr-alecsandro
+2024-09-19-18:47:45: Nome....: Dr Alecsandro
+2024-09-19-18:47:45: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:45: Assunto..: Dr Alecsandro - 1000723-65.2022.5.02.0255 - 20368 - 2024-09-19-18:47:45-8 
+2024-09-19-18:47:45: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:45: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:48: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:48: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000723-65.2022.5.02.0255-20367-dr-alecsandro-2024-09-19-18:46-476.pdf
+2024-09-19-18:47:48: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:48: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000723-65.2022.5.02.0255-20367-dr-alecsandro-2024-09-19-18:46-476.pdf
+2024-09-19-18:47:48: Chave...: dr-alecsandro
+2024-09-19-18:47:48: Nome....: Dr Alecsandro
+2024-09-19-18:47:48: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:48: Assunto..: Dr Alecsandro - 1000723-65.2022.5.02.0255 - 20367 - 2024-09-19-18:47:48-10 
+2024-09-19-18:47:48: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:48: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:50: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:50: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100435-42.2021.5.01.0050-9590-dr-alecsandro-2024-09-19-18:47-651.pdf
+2024-09-19-18:47:50: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:50: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100435-42.2021.5.01.0050-9590-dr-alecsandro-2024-09-19-18:47-651.pdf
+2024-09-19-18:47:50: Chave...: dr-alecsandro
+2024-09-19-18:47:50: Nome....: Dr Alecsandro
+2024-09-19-18:47:50: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:50: Assunto..: Dr Alecsandro - 0100435-42.2021.5.01.0050 - 9590 - 2024-09-19-18:47:50-6 
+2024-09-19-18:47:50: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:50: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:53: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:53: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dr-alecsandro-2024-09-19-18:46-995.pdf
+2024-09-19-18:47:53: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:53: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dr-alecsandro-2024-09-19-18:46-995.pdf
+2024-09-19-18:47:53: Chave...: dr-alecsandro
+2024-09-19-18:47:53: Nome....: Dr Alecsandro
+2024-09-19-18:47:53: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:53: Assunto..: Dr Alecsandro - 0011875-05.2023.5.15.0135 - 11782 - 2024-09-19-18:47:53-3 
+2024-09-19-18:47:53: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:53: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:55: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:55: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100435-42.2021.5.01.0050-9582-dr-alecsandro-2024-09-19-18:47-853.pdf
+2024-09-19-18:47:55: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:55: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100435-42.2021.5.01.0050-9582-dr-alecsandro-2024-09-19-18:47-853.pdf
+2024-09-19-18:47:55: Chave...: dr-alecsandro
+2024-09-19-18:47:55: Nome....: Dr Alecsandro
+2024-09-19-18:47:55: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:55: Assunto..: Dr Alecsandro - 0100435-42.2021.5.01.0050 - 9582 - 2024-09-19-18:47:55-6 
+2024-09-19-18:47:55: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:55: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:47:57: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:47:57: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dr-alecsandro-2024-09-19-18:46-440.pdf
+2024-09-19-18:47:57: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:47:57: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dr-alecsandro-2024-09-19-18:46-440.pdf
+2024-09-19-18:47:57: Chave...: dr-alecsandro
+2024-09-19-18:47:57: Nome....: Dr Alecsandro
+2024-09-19-18:47:57: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:47:57: Assunto..: Dr Alecsandro - 1000873-86.2021.5.02.0447 - 32918 - 2024-09-19-18:47:57-2 
+2024-09-19-18:47:57: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:47:57: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:00: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dr-alecsandro-2024-09-19-18:46-114.pdf
+2024-09-19-18:48:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:00: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dr-alecsandro-2024-09-19-18:46-114.pdf
+2024-09-19-18:48:00: Chave...: dr-alecsandro
+2024-09-19-18:48:00: Nome....: Dr Alecsandro
+2024-09-19-18:48:00: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:00: Assunto..: Dr Alecsandro - 0011875-05.2023.5.15.0135 - 11783 - 2024-09-19-18:48:00-3 
+2024-09-19-18:48:00: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:00: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:02: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:02: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dr-alecsandro-2024-09-19-18:46-280.pdf
+2024-09-19-18:48:02: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:02: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dr-alecsandro-2024-09-19-18:46-280.pdf
+2024-09-19-18:48:02: Chave...: dr-alecsandro
+2024-09-19-18:48:02: Nome....: Dr Alecsandro
+2024-09-19-18:48:02: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:02: Assunto..: Dr Alecsandro - 0010974-12.2022.5.03.0004 - 5338 - 2024-09-19-18:48:02-2 
+2024-09-19-18:48:02: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:02: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:05: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:05: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dr-alecsandro-2024-09-19-18:46-290.pdf
+2024-09-19-18:48:05: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:05: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dr-alecsandro-2024-09-19-18:46-290.pdf
+2024-09-19-18:48:05: Chave...: dr-alecsandro
+2024-09-19-18:48:05: Nome....: Dr Alecsandro
+2024-09-19-18:48:05: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:05: Assunto..: Dr Alecsandro - 0011016-86.2022.5.03.0028 - 10249 - 2024-09-19-18:48:05-5 
+2024-09-19-18:48:05: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:05: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:07: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:07: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dr-alecsandro-2024-09-19-18:46-863.pdf
+2024-09-19-18:48:07: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:07: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dr-alecsandro-2024-09-19-18:46-863.pdf
+2024-09-19-18:48:07: Chave...: dr-alecsandro
+2024-09-19-18:48:07: Nome....: Dr Alecsandro
+2024-09-19-18:48:07: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:07: Assunto..: Dr Alecsandro - 1000873-86.2021.5.02.0447 - 32919 - 2024-09-19-18:48:07-3 
+2024-09-19-18:48:07: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:07: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:09: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:09: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9582-dr-alecsandro-2024-09-19-18:46-513.pdf
+2024-09-19-18:48:09: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:09: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9582-dr-alecsandro-2024-09-19-18:46-513.pdf
+2024-09-19-18:48:09: Chave...: dr-alecsandro
+2024-09-19-18:48:09: Nome....: Dr Alecsandro
+2024-09-19-18:48:09: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:09: Assunto..: Dr Alecsandro - 0000473-74.2022.5.09.0022 - 9582 - 2024-09-19-18:48:09-2 
+2024-09-19-18:48:09: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:09: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:12: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:12: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9583-dr-alecsandro-2024-09-19-18:46-561.pdf
+2024-09-19-18:48:12: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:12: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9583-dr-alecsandro-2024-09-19-18:46-561.pdf
+2024-09-19-18:48:12: Chave...: dr-alecsandro
+2024-09-19-18:48:12: Nome....: Dr Alecsandro
+2024-09-19-18:48:12: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:12: Assunto..: Dr Alecsandro - 0000473-74.2022.5.09.0022 - 9583 - 2024-09-19-18:48:12-4 
+2024-09-19-18:48:12: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:12: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:14: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:14: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010714-12.2022.5.03.0140-15-dr-alecsandro-2024-09-19-18:46-879.pdf
+2024-09-19-18:48:14: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:14: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010714-12.2022.5.03.0140-15-dr-alecsandro-2024-09-19-18:46-879.pdf
+2024-09-19-18:48:14: Chave...: dr-alecsandro
+2024-09-19-18:48:14: Nome....: Dr Alecsandro
+2024-09-19-18:48:14: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:14: Assunto..: Dr Alecsandro - 0010714-12.2022.5.03.0140 - 15 - 2024-09-19-18:48:14-1 
+2024-09-19-18:48:14: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:14: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:17: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:17: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18298-dr-alecsandro-2024-09-19-18:46-328.pdf
+2024-09-19-18:48:17: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:17: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18298-dr-alecsandro-2024-09-19-18:46-328.pdf
+2024-09-19-18:48:17: Chave...: dr-alecsandro
+2024-09-19-18:48:17: Nome....: Dr Alecsandro
+2024-09-19-18:48:17: Email...: alecsandro.silva@gruposouzalima.com
+2024-09-19-18:48:17: Assunto..: Dr Alecsandro - 0011572-46.2022.5.15.0128 - 18298 - 2024-09-19-18:48:17-2 
+2024-09-19-18:48:17: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:17: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-09-19-18:48:19: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:19: dra-ana - 'destino':'chave':'dra-ana','nome':'Dra Ana', 'email':'ana.takahashi@gruposouzalima.com'
+2024-09-19-18:48:19: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001616-10.2021.5.02.0605-42350-dra-ana-2024-09-19-18:46-215.pdf
+2024-09-19-18:48:19: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:19: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001616-10.2021.5.02.0605-42350-dra-ana-2024-09-19-18:46-215.pdf
+2024-09-19-18:48:19: Chave...: dra-ana
+2024-09-19-18:48:19: Nome....: Dra Ana
+2024-09-19-18:48:19: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:19: Assunto..: Dra Ana - 1001616-10.2021.5.02.0605 - 42350 - 2024-09-19-18:48:19-9 
+2024-09-19-18:48:19: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:19: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:21: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:21: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dra-ana-2024-09-19-18:46-601.pdf
+2024-09-19-18:48:21: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:21: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dra-ana-2024-09-19-18:46-601.pdf
+2024-09-19-18:48:21: Chave...: dra-ana
+2024-09-19-18:48:21: Nome....: Dra Ana
+2024-09-19-18:48:21: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:21: Assunto..: Dra Ana - 1000873-86.2021.5.02.0447 - 32918 - 2024-09-19-18:48:21-4 
+2024-09-19-18:48:21: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:21: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:24: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:24: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dra-ana-2024-09-19-18:46-129.pdf
+2024-09-19-18:48:24: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:24: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dra-ana-2024-09-19-18:46-129.pdf
+2024-09-19-18:48:24: Chave...: dra-ana
+2024-09-19-18:48:24: Nome....: Dra Ana
+2024-09-19-18:48:24: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:24: Assunto..: Dra Ana - 0010974-12.2022.5.03.0004 - 5340 - 2024-09-19-18:48:24-1 
+2024-09-19-18:48:24: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:24: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:26: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:26: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0013272-63.2016.5.15.0097-14812-dra-ana-2024-09-19-18:46-721.pdf
+2024-09-19-18:48:26: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:26: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0013272-63.2016.5.15.0097-14812-dra-ana-2024-09-19-18:46-721.pdf
+2024-09-19-18:48:26: Chave...: dra-ana
+2024-09-19-18:48:26: Nome....: Dra Ana
+2024-09-19-18:48:26: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:26: Assunto..: Dra Ana - 0013272-63.2016.5.15.0097 - 14812 - 2024-09-19-18:48:26-4 
+2024-09-19-18:48:26: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:26: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:29: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:29: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18298-dra-ana-2024-09-19-18:46-215.pdf
+2024-09-19-18:48:29: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:29: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18298-dra-ana-2024-09-19-18:46-215.pdf
+2024-09-19-18:48:29: Chave...: dra-ana
+2024-09-19-18:48:29: Nome....: Dra Ana
+2024-09-19-18:48:29: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:29: Assunto..: Dra Ana - 0011572-46.2022.5.15.0128 - 18298 - 2024-09-19-18:48:29-5 
+2024-09-19-18:48:29: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:29: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:31: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:31: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dra-ana-2024-09-19-18:46-335.pdf
+2024-09-19-18:48:31: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:31: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dra-ana-2024-09-19-18:46-335.pdf
+2024-09-19-18:48:31: Chave...: dra-ana
+2024-09-19-18:48:31: Nome....: Dra Ana
+2024-09-19-18:48:31: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:31: Assunto..: Dra Ana - 1000873-86.2021.5.02.0447 - 32919 - 2024-09-19-18:48:31-8 
+2024-09-19-18:48:31: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:31: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:33: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:33: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dra-ana-2024-09-19-18:46-955.pdf
+2024-09-19-18:48:33: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:33: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dra-ana-2024-09-19-18:46-955.pdf
+2024-09-19-18:48:33: Chave...: dra-ana
+2024-09-19-18:48:33: Nome....: Dra Ana
+2024-09-19-18:48:33: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:33: Assunto..: Dra Ana - 0011875-05.2023.5.15.0135 - 11782 - 2024-09-19-18:48:33-6 
+2024-09-19-18:48:33: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:33: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:36: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:36: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dra-ana-2024-09-19-18:46-484.pdf
+2024-09-19-18:48:36: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:36: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dra-ana-2024-09-19-18:46-484.pdf
+2024-09-19-18:48:36: Chave...: dra-ana
+2024-09-19-18:48:36: Nome....: Dra Ana
+2024-09-19-18:48:36: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:36: Assunto..: Dra Ana - 0010974-12.2022.5.03.0004 - 5338 - 2024-09-19-18:48:36-8 
+2024-09-19-18:48:36: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:36: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:39: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:39: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0013272-63.2016.5.15.0097-14810-dra-ana-2024-09-19-18:46-175.pdf
+2024-09-19-18:48:39: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:39: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0013272-63.2016.5.15.0097-14810-dra-ana-2024-09-19-18:46-175.pdf
+2024-09-19-18:48:39: Chave...: dra-ana
+2024-09-19-18:48:39: Nome....: Dra Ana
+2024-09-19-18:48:39: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:39: Assunto..: Dra Ana - 0013272-63.2016.5.15.0097 - 14810 - 2024-09-19-18:48:39-9 
+2024-09-19-18:48:39: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:39: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:41: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:41: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9583-dra-ana-2024-09-19-18:46-256.pdf
+2024-09-19-18:48:41: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:41: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9583-dra-ana-2024-09-19-18:46-256.pdf
+2024-09-19-18:48:41: Chave...: dra-ana
+2024-09-19-18:48:41: Nome....: Dra Ana
+2024-09-19-18:48:41: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:41: Assunto..: Dra Ana - 0000473-74.2022.5.09.0022 - 9583 - 2024-09-19-18:48:41-2 
+2024-09-19-18:48:41: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:41: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:43: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:43: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dra-ana-2024-09-19-18:46-273.pdf
+2024-09-19-18:48:43: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:43: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dra-ana-2024-09-19-18:46-273.pdf
+2024-09-19-18:48:43: Chave...: dra-ana
+2024-09-19-18:48:43: Nome....: Dra Ana
+2024-09-19-18:48:43: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:43: Assunto..: Dra Ana - 0011016-86.2022.5.03.0028 - 10250 - 2024-09-19-18:48:43-10 
+2024-09-19-18:48:43: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:43: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:46: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:46: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dra-ana-2024-09-19-18:46-182.pdf
+2024-09-19-18:48:46: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:46: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dra-ana-2024-09-19-18:46-182.pdf
+2024-09-19-18:48:46: Chave...: dra-ana
+2024-09-19-18:48:46: Nome....: Dra Ana
+2024-09-19-18:48:46: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:46: Assunto..: Dra Ana - 0011875-05.2023.5.15.0135 - 11783 - 2024-09-19-18:48:46-7 
+2024-09-19-18:48:46: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:46: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:48: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:48: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9582-dra-ana-2024-09-19-18:46-998.pdf
+2024-09-19-18:48:48: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:48: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000473-74.2022.5.09.0022-9582-dra-ana-2024-09-19-18:46-998.pdf
+2024-09-19-18:48:48: Chave...: dra-ana
+2024-09-19-18:48:48: Nome....: Dra Ana
+2024-09-19-18:48:48: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:48: Assunto..: Dra Ana - 0000473-74.2022.5.09.0022 - 9582 - 2024-09-19-18:48:48-3 
+2024-09-19-18:48:48: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:48: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:51: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:51: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18299-dra-ana-2024-09-19-18:46-217.pdf
+2024-09-19-18:48:51: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:51: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18299-dra-ana-2024-09-19-18:46-217.pdf
+2024-09-19-18:48:51: Chave...: dra-ana
+2024-09-19-18:48:51: Nome....: Dra Ana
+2024-09-19-18:48:51: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:51: Assunto..: Dra Ana - 0011572-46.2022.5.15.0128 - 18299 - 2024-09-19-18:48:51-2 
+2024-09-19-18:48:51: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:51: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:53: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:53: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dra-ana-2024-09-19-18:46-990.pdf
+2024-09-19-18:48:53: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:53: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dra-ana-2024-09-19-18:46-990.pdf
+2024-09-19-18:48:53: Chave...: dra-ana
+2024-09-19-18:48:53: Nome....: Dra Ana
+2024-09-19-18:48:53: Email...: ana.takahashi@gruposouzalima.com
+2024-09-19-18:48:53: Assunto..: Dra Ana - 0011016-86.2022.5.03.0028 - 10249 - 2024-09-19-18:48:53-8 
+2024-09-19-18:48:53: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:53: to.......:['ana.takahashi@gruposouzalima.com']
+2024-09-19-18:48:55: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:55: dra-lais - 'destino':'chave':'dra-lais','nome':'Dra Lais', 'email':'lais.goncalves@gruposouzalima.com'
+2024-09-19-18:48:55: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dra-lais-2024-09-19-18:46-520.pdf
+2024-09-19-18:48:55: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:55: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dra-lais-2024-09-19-18:46-520.pdf
+2024-09-19-18:48:55: Chave...: dra-lais
+2024-09-19-18:48:55: Nome....: Dra Lais
+2024-09-19-18:48:55: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:48:55: Assunto..: Dra Lais - 0010974-12.2022.5.03.0004 - 5338 - 2024-09-19-18:48:55-3 
+2024-09-19-18:48:55: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:55: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:48:58: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:48:58: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dra-lais-2024-09-19-18:46-413.pdf
+2024-09-19-18:48:58: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:48:58: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dra-lais-2024-09-19-18:46-413.pdf
+2024-09-19-18:48:58: Chave...: dra-lais
+2024-09-19-18:48:58: Nome....: Dra Lais
+2024-09-19-18:48:58: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:48:58: Assunto..: Dra Lais - 0010974-12.2022.5.03.0004 - 5340 - 2024-09-19-18:48:58-5 
+2024-09-19-18:48:58: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:48:58: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:00: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dra-lais-2024-09-19-18:46-680.pdf
+2024-09-19-18:49:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:00: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dra-lais-2024-09-19-18:46-680.pdf
+2024-09-19-18:49:00: Chave...: dra-lais
+2024-09-19-18:49:00: Nome....: Dra Lais
+2024-09-19-18:49:00: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:49:00: Assunto..: Dra Lais - 1000873-86.2021.5.02.0447 - 32918 - 2024-09-19-18:49:00-9 
+2024-09-19-18:49:00: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:00: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:03: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:03: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dra-lais-2024-09-19-18:46-232.pdf
+2024-09-19-18:49:03: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:03: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dra-lais-2024-09-19-18:46-232.pdf
+2024-09-19-18:49:03: Chave...: dra-lais
+2024-09-19-18:49:03: Nome....: Dra Lais
+2024-09-19-18:49:03: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:49:03: Assunto..: Dra Lais - 0011875-05.2023.5.15.0135 - 11782 - 2024-09-19-18:49:03-7 
+2024-09-19-18:49:03: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:03: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:05: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:05: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dra-lais-2024-09-19-18:46-402.pdf
+2024-09-19-18:49:05: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:05: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dra-lais-2024-09-19-18:46-402.pdf
+2024-09-19-18:49:05: Chave...: dra-lais
+2024-09-19-18:49:05: Nome....: Dra Lais
+2024-09-19-18:49:05: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:49:05: Assunto..: Dra Lais - 1000873-86.2021.5.02.0447 - 32919 - 2024-09-19-18:49:05-4 
+2024-09-19-18:49:05: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:05: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:07: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:07: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dra-lais-2024-09-19-18:46-737.pdf
+2024-09-19-18:49:07: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:07: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dra-lais-2024-09-19-18:46-737.pdf
+2024-09-19-18:49:07: Chave...: dra-lais
+2024-09-19-18:49:07: Nome....: Dra Lais
+2024-09-19-18:49:07: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:49:07: Assunto..: Dra Lais - 0011016-86.2022.5.03.0028 - 10250 - 2024-09-19-18:49:07-6 
+2024-09-19-18:49:07: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:07: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:10: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:10: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dra-lais-2024-09-19-18:46-928.pdf
+2024-09-19-18:49:10: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:10: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dra-lais-2024-09-19-18:46-928.pdf
+2024-09-19-18:49:10: Chave...: dra-lais
+2024-09-19-18:49:10: Nome....: Dra Lais
+2024-09-19-18:49:10: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:49:10: Assunto..: Dra Lais - 0011016-86.2022.5.03.0028 - 10249 - 2024-09-19-18:49:10-3 
+2024-09-19-18:49:10: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:10: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:12: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:12: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dra-lais-2024-09-19-18:46-405.pdf
+2024-09-19-18:49:12: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:12: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dra-lais-2024-09-19-18:46-405.pdf
+2024-09-19-18:49:12: Chave...: dra-lais
+2024-09-19-18:49:12: Nome....: Dra Lais
+2024-09-19-18:49:12: Email...: lais.goncalves@gruposouzalima.com
+2024-09-19-18:49:12: Assunto..: Dra Lais - 0011875-05.2023.5.15.0135 - 11783 - 2024-09-19-18:49:12-10 
+2024-09-19-18:49:12: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:12: to.......:['lais.goncalves@gruposouzalima.com']
+2024-09-19-18:49:15: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:15: dra-mariana - 'destino':'chave':'dra-mariana','nome':'Dra Mariana', 'email':'mariana.gallo@gruposouzalima.com'
+2024-09-19-18:49:15: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dra-mariana-2024-09-19-18:46-616.pdf
+2024-09-19-18:49:15: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:15: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10250-dra-mariana-2024-09-19-18:46-616.pdf
+2024-09-19-18:49:15: Chave...: dra-mariana
+2024-09-19-18:49:15: Nome....: Dra Mariana
+2024-09-19-18:49:15: Email...: mariana.gallo@gruposouzalima.com
+2024-09-19-18:49:15: Assunto..: Dra Mariana - 0011016-86.2022.5.03.0028 - 10250 - 2024-09-19-18:49:15-6 
+2024-09-19-18:49:15: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:15: to.......:['mariana.gallo@gruposouzalima.com']
+2024-09-19-18:49:17: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:17: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dra-mariana-2024-09-19-18:46-307.pdf
+2024-09-19-18:49:17: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:17: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011016-86.2022.5.03.0028-10249-dra-mariana-2024-09-19-18:46-307.pdf
+2024-09-19-18:49:17: Chave...: dra-mariana
+2024-09-19-18:49:17: Nome....: Dra Mariana
+2024-09-19-18:49:17: Email...: mariana.gallo@gruposouzalima.com
+2024-09-19-18:49:17: Assunto..: Dra Mariana - 0011016-86.2022.5.03.0028 - 10249 - 2024-09-19-18:49:17-10 
+2024-09-19-18:49:17: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:17: to.......:['mariana.gallo@gruposouzalima.com']
+2024-09-19-18:49:19: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:19: dra-maria-avelino - 'destino':'chave':'dra-maria-avelino','nome':'Dra Maria Avelino', 'email':'maria.avelino@gruposouzalima.com'
+2024-09-19-18:49:19: dra-nelia - 'destino':'chave':'dra-nelia','nome':'Dra Nelia', 'email':'nelia.fernandes@gruposouzalima.com'
+2024-09-19-18:49:19: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001067-05.2023.5.02.0322-15164-dra-nelia-2024-09-19-18:46-739.pdf
+2024-09-19-18:49:19: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:19: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001067-05.2023.5.02.0322-15164-dra-nelia-2024-09-19-18:46-739.pdf
+2024-09-19-18:49:19: Chave...: dra-nelia
+2024-09-19-18:49:19: Nome....: Dra Nelia
+2024-09-19-18:49:19: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:19: Assunto..: Dra Nelia - 1001067-05.2023.5.02.0322 - 15164 - 2024-09-19-18:49:19-6 
+2024-09-19-18:49:19: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:19: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:22: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:22: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dra-nelia-2024-09-19-18:46-551.pdf
+2024-09-19-18:49:22: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:22: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dra-nelia-2024-09-19-18:46-551.pdf
+2024-09-19-18:49:22: Chave...: dra-nelia
+2024-09-19-18:49:22: Nome....: Dra Nelia
+2024-09-19-18:49:22: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:22: Assunto..: Dra Nelia - 0010974-12.2022.5.03.0004 - 5340 - 2024-09-19-18:49:22-4 
+2024-09-19-18:49:22: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:22: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:24: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:24: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dra-nelia-2024-09-19-18:46-357.pdf
+2024-09-19-18:49:24: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:24: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5338-dra-nelia-2024-09-19-18:46-357.pdf
+2024-09-19-18:49:24: Chave...: dra-nelia
+2024-09-19-18:49:24: Nome....: Dra Nelia
+2024-09-19-18:49:24: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:24: Assunto..: Dra Nelia - 0010974-12.2022.5.03.0004 - 5338 - 2024-09-19-18:49:24-9 
+2024-09-19-18:49:24: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:24: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:27: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:27: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010714-12.2022.5.03.0140-15-dra-nelia-2024-09-19-18:46-325.pdf
+2024-09-19-18:49:27: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:27: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010714-12.2022.5.03.0140-15-dra-nelia-2024-09-19-18:46-325.pdf
+2024-09-19-18:49:27: Chave...: dra-nelia
+2024-09-19-18:49:27: Nome....: Dra Nelia
+2024-09-19-18:49:27: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:27: Assunto..: Dra Nelia - 0010714-12.2022.5.03.0140 - 15 - 2024-09-19-18:49:27-5 
+2024-09-19-18:49:27: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:27: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:29: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:29: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14967-dra-nelia-2024-09-19-18:46-796.pdf
+2024-09-19-18:49:29: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:29: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14967-dra-nelia-2024-09-19-18:46-796.pdf
+2024-09-19-18:49:29: Chave...: dra-nelia
+2024-09-19-18:49:29: Nome....: Dra Nelia
+2024-09-19-18:49:29: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:29: Assunto..: Dra Nelia - 0101099-89.2022.5.01.0001 - 14967 - 2024-09-19-18:49:29-7 
+2024-09-19-18:49:29: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:29: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:31: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:31: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14965-dra-nelia-2024-09-19-18:46-168.pdf
+2024-09-19-18:49:31: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:31: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14965-dra-nelia-2024-09-19-18:46-168.pdf
+2024-09-19-18:49:31: Chave...: dra-nelia
+2024-09-19-18:49:31: Nome....: Dra Nelia
+2024-09-19-18:49:31: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:31: Assunto..: Dra Nelia - 0101099-89.2022.5.01.0001 - 14965 - 2024-09-19-18:49:31-3 
+2024-09-19-18:49:31: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:31: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:34: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:34: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14969-dra-nelia-2024-09-19-18:46-204.pdf
+2024-09-19-18:49:34: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:34: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14969-dra-nelia-2024-09-19-18:46-204.pdf
+2024-09-19-18:49:34: Chave...: dra-nelia
+2024-09-19-18:49:34: Nome....: Dra Nelia
+2024-09-19-18:49:34: Email...: nelia.fernandes@gruposouzalima.com
+2024-09-19-18:49:34: Assunto..: Dra Nelia - 0101099-89.2022.5.01.0001 - 14969 - 2024-09-19-18:49:34-9 
+2024-09-19-18:49:34: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:34: to.......:['nelia.fernandes@gruposouzalima.com']
+2024-09-19-18:49:36: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:36: dra-neusa - 'destino':'chave':'dra-neusa','nome':'Dra Neusa', 'email':'neusa.sotana@gruposouzalima.com'
+2024-09-19-18:49:36: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001047-35.2023.5.02.0606-38395-dra-neusa-2024-09-19-18:46-892.pdf
+2024-09-19-18:49:36: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:36: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001047-35.2023.5.02.0606-38395-dra-neusa-2024-09-19-18:46-892.pdf
+2024-09-19-18:49:36: Chave...: dra-neusa
+2024-09-19-18:49:36: Nome....: Dra Neusa
+2024-09-19-18:49:36: Email...: neusa.sotana@gruposouzalima.com
+2024-09-19-18:49:36: Assunto..: Dra Neusa - 1001047-35.2023.5.02.0606 - 38395 - 2024-09-19-18:49:36-9 
+2024-09-19-18:49:36: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:36: to.......:['neusa.sotana@gruposouzalima.com']
+2024-09-19-18:49:39: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:39: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001047-35.2023.5.02.0606-38394-dra-neusa-2024-09-19-18:46-548.pdf
+2024-09-19-18:49:39: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:39: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001047-35.2023.5.02.0606-38394-dra-neusa-2024-09-19-18:46-548.pdf
+2024-09-19-18:49:39: Chave...: dra-neusa
+2024-09-19-18:49:39: Nome....: Dra Neusa
+2024-09-19-18:49:39: Email...: neusa.sotana@gruposouzalima.com
+2024-09-19-18:49:39: Assunto..: Dra Neusa - 1001047-35.2023.5.02.0606 - 38394 - 2024-09-19-18:49:39-3 
+2024-09-19-18:49:39: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:39: to.......:['neusa.sotana@gruposouzalima.com']
+2024-09-19-18:49:41: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:41: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001204-31.2024.5.17.0005-1246-dra-neusa-2024-09-19-18:46-397.pdf
+2024-09-19-18:49:41: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:41: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001204-31.2024.5.17.0005-1246-dra-neusa-2024-09-19-18:46-397.pdf
+2024-09-19-18:49:41: Chave...: dra-neusa
+2024-09-19-18:49:41: Nome....: Dra Neusa
+2024-09-19-18:49:41: Email...: neusa.sotana@gruposouzalima.com
+2024-09-19-18:49:41: Assunto..: Dra Neusa - 0001204-31.2024.5.17.0005 - 1246 - 2024-09-19-18:49:41-2 
+2024-09-19-18:49:41: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:41: to.......:['neusa.sotana@gruposouzalima.com']
+2024-09-19-18:49:43: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:43: dr-rafael - 'destino':'chave':'dr-rafael','nome':'Dr Rafael', 'email':'rafael.santos@gruposouzalima.com'
+2024-09-19-18:49:43: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dr-rafael-2024-09-19-18:46-111.pdf
+2024-09-19-18:49:43: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:43: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010974-12.2022.5.03.0004-5340-dr-rafael-2024-09-19-18:46-111.pdf
+2024-09-19-18:49:43: Chave...: dr-rafael
+2024-09-19-18:49:43: Nome....: Dr Rafael
+2024-09-19-18:49:43: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:43: Assunto..: Dr Rafael - 0010974-12.2022.5.03.0004 - 5340 - 2024-09-19-18:49:43-6 
+2024-09-19-18:49:43: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:43: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:49:46: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:46: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dr-rafael-2024-09-19-18:46-426.pdf
+2024-09-19-18:49:46: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:46: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32918-dr-rafael-2024-09-19-18:46-426.pdf
+2024-09-19-18:49:46: Chave...: dr-rafael
+2024-09-19-18:49:46: Nome....: Dr Rafael
+2024-09-19-18:49:46: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:46: Assunto..: Dr Rafael - 1000873-86.2021.5.02.0447 - 32918 - 2024-09-19-18:49:46-6 
+2024-09-19-18:49:46: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:46: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:49:48: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:48: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18298-dr-rafael-2024-09-19-18:46-352.pdf
+2024-09-19-18:49:48: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:48: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011572-46.2022.5.15.0128-18298-dr-rafael-2024-09-19-18:46-352.pdf
+2024-09-19-18:49:48: Chave...: dr-rafael
+2024-09-19-18:49:48: Nome....: Dr Rafael
+2024-09-19-18:49:48: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:48: Assunto..: Dr Rafael - 0011572-46.2022.5.15.0128 - 18298 - 2024-09-19-18:49:48-9 
+2024-09-19-18:49:48: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:48: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:49:51: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:51: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14969-dr-rafael-2024-09-19-18:46-723.pdf
+2024-09-19-18:49:51: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:51: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14969-dr-rafael-2024-09-19-18:46-723.pdf
+2024-09-19-18:49:51: Chave...: dr-rafael
+2024-09-19-18:49:51: Nome....: Dr Rafael
+2024-09-19-18:49:51: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:51: Assunto..: Dr Rafael - 0101099-89.2022.5.01.0001 - 14969 - 2024-09-19-18:49:51-4 
+2024-09-19-18:49:51: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:51: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:49:53: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:53: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13079-dr-rafael-2024-09-19-18:46-385.pdf
+2024-09-19-18:49:53: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:53: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13079-dr-rafael-2024-09-19-18:46-385.pdf
+2024-09-19-18:49:53: Chave...: dr-rafael
+2024-09-19-18:49:53: Nome....: Dr Rafael
+2024-09-19-18:49:53: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:53: Assunto..: Dr Rafael - 1000889-17.2022.5.02.0605 - 13079 - 2024-09-19-18:49:53-4 
+2024-09-19-18:49:53: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:53: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:49:56: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:56: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14967-dr-rafael-2024-09-19-18:46-393.pdf
+2024-09-19-18:49:56: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:56: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14967-dr-rafael-2024-09-19-18:46-393.pdf
+2024-09-19-18:49:56: Chave...: dr-rafael
+2024-09-19-18:49:56: Nome....: Dr Rafael
+2024-09-19-18:49:56: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:56: Assunto..: Dr Rafael - 0101099-89.2022.5.01.0001 - 14967 - 2024-09-19-18:49:56-9 
+2024-09-19-18:49:56: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:56: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:49:58: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:49:58: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100527-71.2023.5.01.0075-177-dr-rafael-2024-09-19-18:46-982.pdf
+2024-09-19-18:49:58: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:49:58: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100527-71.2023.5.01.0075-177-dr-rafael-2024-09-19-18:46-982.pdf
+2024-09-19-18:49:58: Chave...: dr-rafael
+2024-09-19-18:49:58: Nome....: Dr Rafael
+2024-09-19-18:49:58: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:49:58: Assunto..: Dr Rafael - 0100527-71.2023.5.01.0075 - 177 - 2024-09-19-18:49:58-5 
+2024-09-19-18:49:58: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:49:58: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:00: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dr-rafael-2024-09-19-18:46-256.pdf
+2024-09-19-18:50:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:00: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11782-dr-rafael-2024-09-19-18:46-256.pdf
+2024-09-19-18:50:00: Chave...: dr-rafael
+2024-09-19-18:50:00: Nome....: Dr Rafael
+2024-09-19-18:50:00: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:00: Assunto..: Dr Rafael - 0011875-05.2023.5.15.0135 - 11782 - 2024-09-19-18:50:00-2 
+2024-09-19-18:50:00: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:00: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:03: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:03: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001470-83.2023.5.02.0027-14-dr-rafael-2024-09-19-18:46-292.pdf
+2024-09-19-18:50:03: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:03: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001470-83.2023.5.02.0027-14-dr-rafael-2024-09-19-18:46-292.pdf
+2024-09-19-18:50:03: Chave...: dr-rafael
+2024-09-19-18:50:03: Nome....: Dr Rafael
+2024-09-19-18:50:03: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:03: Assunto..: Dr Rafael - 1001470-83.2023.5.02.0027 - 14 - 2024-09-19-18:50:03-2 
+2024-09-19-18:50:03: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:03: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:05: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:05: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010714-12.2022.5.03.0140-15-dr-rafael-2024-09-19-18:46-468.pdf
+2024-09-19-18:50:05: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:05: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010714-12.2022.5.03.0140-15-dr-rafael-2024-09-19-18:46-468.pdf
+2024-09-19-18:50:05: Chave...: dr-rafael
+2024-09-19-18:50:05: Nome....: Dr Rafael
+2024-09-19-18:50:05: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:05: Assunto..: Dr Rafael - 0010714-12.2022.5.03.0140 - 15 - 2024-09-19-18:50:05-9 
+2024-09-19-18:50:05: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:05: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:08: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:08: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001067-05.2023.5.02.0322-15164-dr-rafael-2024-09-19-18:46-153.pdf
+2024-09-19-18:50:08: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:08: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001067-05.2023.5.02.0322-15164-dr-rafael-2024-09-19-18:46-153.pdf
+2024-09-19-18:50:08: Chave...: dr-rafael
+2024-09-19-18:50:08: Nome....: Dr Rafael
+2024-09-19-18:50:08: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:08: Assunto..: Dr Rafael - 1001067-05.2023.5.02.0322 - 15164 - 2024-09-19-18:50:08-3 
+2024-09-19-18:50:08: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:08: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:10: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:10: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dr-rafael-2024-09-19-18:46-528.pdf
+2024-09-19-18:50:10: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:10: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011875-05.2023.5.15.0135-11783-dr-rafael-2024-09-19-18:46-528.pdf
+2024-09-19-18:50:10: Chave...: dr-rafael
+2024-09-19-18:50:10: Nome....: Dr Rafael
+2024-09-19-18:50:10: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:10: Assunto..: Dr Rafael - 0011875-05.2023.5.15.0135 - 11783 - 2024-09-19-18:50:10-6 
+2024-09-19-18:50:10: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:10: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:13: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:13: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100435-42.2021.5.01.0050-9590-dr-rafael-2024-09-19-18:47-923.pdf
+2024-09-19-18:50:13: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:13: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100435-42.2021.5.01.0050-9590-dr-rafael-2024-09-19-18:47-923.pdf
+2024-09-19-18:50:13: Chave...: dr-rafael
+2024-09-19-18:50:13: Nome....: Dr Rafael
+2024-09-19-18:50:13: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:13: Assunto..: Dr Rafael - 0100435-42.2021.5.01.0050 - 9590 - 2024-09-19-18:50:13-4 
+2024-09-19-18:50:13: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:13: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:15: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:15: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14965-dr-rafael-2024-09-19-18:46-760.pdf
+2024-09-19-18:50:15: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:15: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101099-89.2022.5.01.0001-14965-dr-rafael-2024-09-19-18:46-760.pdf
+2024-09-19-18:50:15: Chave...: dr-rafael
+2024-09-19-18:50:15: Nome....: Dr Rafael
+2024-09-19-18:50:15: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:15: Assunto..: Dr Rafael - 0101099-89.2022.5.01.0001 - 14965 - 2024-09-19-18:50:15-3 
+2024-09-19-18:50:15: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:15: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:17: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:17: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13075-dr-rafael-2024-09-19-18:46-916.pdf
+2024-09-19-18:50:17: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:17: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000889-17.2022.5.02.0605-13075-dr-rafael-2024-09-19-18:46-916.pdf
+2024-09-19-18:50:17: Chave...: dr-rafael
+2024-09-19-18:50:17: Nome....: Dr Rafael
+2024-09-19-18:50:17: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:17: Assunto..: Dr Rafael - 1000889-17.2022.5.02.0605 - 13075 - 2024-09-19-18:50:17-9 
+2024-09-19-18:50:17: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:17: to.......:['rafael.santos@gruposouzalima.com']
+2024-09-19-18:50:20: ****************************   EMAIL ENVIADO   ****************************
+2024-09-19-18:50:20: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dr-rafael-2024-09-19-18:46-952.pdf
+2024-09-19-18:50:20: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-09-19-18:50:20: Arquivo.: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000873-86.2021.5.02.0447-32919-dr-rafael-2024-09-19-18:46-952.pdf
+2024-09-19-18:50:20: Chave...: dr-rafael
+2024-09-19-18:50:20: Nome....: Dr Rafael
+2024-09-19-18:50:20: Email...: rafael.santos@gruposouzalima.com
+2024-09-19-18:50:20: Assunto..: Dr Rafael - 1000873-86.2021.5.02.0447 - 32919 - 2024-09-19-18:50:20-2 
+2024-09-19-18:50:20: from.....: juridico.publicacao@gruposouzalima.com
+2024-09-19-18:50:20: to.......:['rafael.santos@gruposouzalima.com']
