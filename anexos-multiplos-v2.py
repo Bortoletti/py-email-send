@@ -49,16 +49,17 @@ class Destino:
 def sendEmail( fileParam, destinoParam, server, logar ):
     # global server
     logar.write("-----------------------  INICIO DE ENVIO  ----------------------------")
-    logar.write(f"Arquivo.: {fileParam}")
-    logar.write(f"Chave...: {destinoParam.chave}")
-    logar.write(f"Nome....: {destinoParam.nome}")
-    logar.write(f"Email...: {destinoParam.email}")
+    logar.write(f"Arquivo....: {fileParam}")
+    logar.write(f"Chave......: {destinoParam.chave}")
+    logar.write(f"Nome.......: {destinoParam.nome}")
+    logar.write(f"Email......: {destinoParam.email}")
 
     from_address    = "juridico.publicacao@gruposouzalima.com"
 
     to_address = destinoParam.email 
 
     # arquivo JSON
+    #================================================================
     jsonFile = re.sub(r'\.pdf$', '.json', fileParam )
     publicacao = None
     #print( jsonFile )
@@ -66,6 +67,10 @@ def sendEmail( fileParam, destinoParam, server, logar ):
         publicacao = json.loads(  jsonConteudo.read() )
         #print( publicacao['id'] )
 
+    logar.write(f"Citados....: {publicacao['citados']}")
+    logar.write(f"Reclamadas.: {publicacao['reclamadas']}")
+
+ 
     cc_address      = []
     if( destinoParam.chave == 'controle'):
         cc_address.append( 'mariana.gallo@gruposouzalima.com' )
@@ -78,8 +83,8 @@ def sendEmail( fileParam, destinoParam, server, logar ):
     if( not destinoParam.chave == 'dra-mariana'):
         cc_address.append( 'mariana.gallo@gruposouzalima.com' )
     """
-    # cc_address.append( 'luis.bortoletti@gruposouzalima.com' )
-    #cc_address.append( 'brenno.cardoso@gruposouzalima.com' )
+    #cc_address.append( 'luis.bortoletti@gruposouzalima.com' )
+    #cc_address.append( 'richard.bento@gruposouzalima.com' )
 
     # Configurar a mensagem
 
@@ -97,7 +102,7 @@ def sendEmail( fileParam, destinoParam, server, logar ):
     msg['Subject'] = subject
 
     # Anexando a imagem
-    with open('img/logo-souzalima.JPG', 'rb') as img:
+    with open('/opt/bitnami/nginx/html/py-email-send/img/logo-souzalima.JPG', 'rb') as img:
         mime_image = MIMEImage(img.read())
         mime_image.add_header('Content-ID', '<logo>')
         msg.attach(mime_image)
@@ -115,7 +120,7 @@ def sendEmail( fileParam, destinoParam, server, logar ):
         <br>Processo: {publicacao['processo']}
         </p>
         <hr>
-        <pre style="font-size: 23px;">{publicacao['linha']}</pre>
+        <pre style="font-size: 16px;">{publicacao['linha']}</pre>
     </body>
     </html>
     """
@@ -149,6 +154,7 @@ def sendEmail( fileParam, destinoParam, server, logar ):
     logar.write( f"Assunto..: {subject}")
     logar.write( f"from.....: {from_address}" )
     logar.write( f"to.......:{[to_address] + cc_address}")
+
     #"""
     try:
 
@@ -180,9 +186,12 @@ def sendEmail( fileParam, destinoParam, server, logar ):
 #                      MAIN
 #============================================================
 
-logar = Logger( f"./logs/enviar-email-{getTimestampFmt2()}-{getRandom()}")
+logar = Logger( f"/opt/bitnami/nginx/html/py-email-send/logs/enviar-email-{getTimestampFmt2()}-{getRandom()}")
 logar.write("====================   INICIO   ========================")
 
+logar.write("====================   CONECTAR SMTP   ========================")
+
+"""
 server = smtplib.SMTP('smtp-relay.gmail.com', 587)
 server.starttls()  # Iniciar a conexão TLS
 
@@ -190,6 +199,17 @@ server.starttls()  # Iniciar a conexão TLS
 conta_email = "luis.bortoletti@gruposouzalima.com"
 password = "Borto!2024#01"
 server.login( conta_email , password)
+"""
+
+server = smtplib.SMTP('smtplw.com.br', 587)
+server.set_debuglevel(0)
+#server.starttls()  # Iniciar a conexão TLS
+
+user = 'gruposouzalima'
+password = 'cTgqvpYm4961'
+server.login(user, password)
+
+logar.write("====================   INICIO   ========================")
 
 destinos = {}
 destinos["controle"] = Destino("controle", "neusa.sotana@gruposouzalima.com","controle")
@@ -204,6 +224,7 @@ destinos["dr-rafael"] = Destino("Dr Rafael", "rafael.santos@gruposouzalima.com",
 destinos["dra-raquel"] = Destino("Dra Raquel", "raquel.fonseca@gruposouzalima.com","dra-raquel")
 destinos["dra-simone"] = Destino("Dra Simone", "simone.vieira@gruposouzalima.com","dra-simone")
 destinos["dra-vania"] = Destino("Dra Vania", "vania.moura@gruposouzalima.com","dra-simone")
+
 
 
 lista = []
@@ -229,10 +250,10 @@ for chave, destino in destinos.items():
     arquivos = glob.glob(os.path.join(diretorio, '*.pdf'))
 
     for arquivo in arquivos:
-      if( re.search( chave, arquivo ) ):
-        logar.write( f"{arquivo}")
-        #destino.email = "luis.bortoletti@gruposouzalima.com"
-        sendEmail( f"{arquivo}", destino, server, logar  )
+        if( re.search( chave, arquivo ) ):
+            logar.write( f"{arquivo}")
+            #destino.email = "luis.bortoletti@gruposouzalima.com"
+            sendEmail( f"{arquivo}", destino, server, logar  )
 
 
 server.quit()

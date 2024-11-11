@@ -1,0 +1,1570 @@
+2024-10-07-16:47:52: ====================   INICIO   ========================
+2024-10-07-16:47:53: controle - 'destino':'chave':'controle','nome':'controle', 'email':'neusa.sotana@gruposouzalima.com'
+2024-10-07-16:47:53: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000280-24.2024.5.02.0036-controle-20241007-1645-184.pdf
+2024-10-07-16:47:53: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:47:53: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000280-24.2024.5.02.0036-controle-20241007-1645-184.pdf
+2024-10-07-16:47:53: Chave......: controle
+2024-10-07-16:47:53: Nome.......: controle
+2024-10-07-16:47:53: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:47:53: Citados....: []
+2024-10-07-16:47:53: Reclamadas.: []
+2024-10-07-16:47:53: Assunto..: controle - 1000280-24.2024.5.02.0036 - 6 - 2024-10-07-16:47:53-3 
+2024-10-07-16:47:53: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:47:53: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:47:55: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:47:55: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000280-24.2024.5.02.0036-controle-20241007-1645-184.pdf
+2024-10-07-16:47:55: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-controle-20241007-1646-530.pdf
+2024-10-07-16:47:55: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:47:55: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-controle-20241007-1646-530.pdf
+2024-10-07-16:47:55: Chave......: controle
+2024-10-07-16:47:55: Nome.......: controle
+2024-10-07-16:47:55: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:47:55: Citados....: []
+2024-10-07-16:47:55: Reclamadas.: []
+2024-10-07-16:47:55: Assunto..: controle - 0010692-80.2024.5.15.0129 - 17488 - 2024-10-07-16:47:55-10 
+2024-10-07-16:47:55: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:47:55: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:47:58: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:47:58: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-controle-20241007-1646-530.pdf
+2024-10-07-16:47:58: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011411-59.2023.5.15.0012-controle-20241007-1645-622.pdf
+2024-10-07-16:47:58: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:47:58: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011411-59.2023.5.15.0012-controle-20241007-1645-622.pdf
+2024-10-07-16:47:58: Chave......: controle
+2024-10-07-16:47:58: Nome.......: controle
+2024-10-07-16:47:58: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:47:58: Citados....: []
+2024-10-07-16:47:58: Reclamadas.: []
+2024-10-07-16:47:58: Assunto..: controle - 0011411-59.2023.5.15.0012 - 6916 - 2024-10-07-16:47:58-3 
+2024-10-07-16:47:58: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:47:58: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:00: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:00: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011411-59.2023.5.15.0012-controle-20241007-1645-622.pdf
+2024-10-07-16:48:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-controle-20241007-1644-764.pdf
+2024-10-07-16:48:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:00: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-controle-20241007-1644-764.pdf
+2024-10-07-16:48:00: Chave......: controle
+2024-10-07-16:48:00: Nome.......: controle
+2024-10-07-16:48:00: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:00: Citados....: []
+2024-10-07-16:48:00: Reclamadas.: []
+2024-10-07-16:48:01: Assunto..: controle - 0000713-55.2023.5.17.0006 - 462 - 2024-10-07-16:48:00-3 
+2024-10-07-16:48:01: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:01: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:03: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:03: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-controle-20241007-1644-764.pdf
+2024-10-07-16:48:03: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-controle-20241007-1645-162.pdf
+2024-10-07-16:48:03: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:03: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-controle-20241007-1645-162.pdf
+2024-10-07-16:48:03: Chave......: controle
+2024-10-07-16:48:03: Nome.......: controle
+2024-10-07-16:48:03: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:03: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:03: Reclamadas.: ['INTEGRAL']
+2024-10-07-16:48:03: Assunto..: controle - 0010753-37.2024.5.03.0108 - 7620 - 2024-10-07-16:48:03-8 
+2024-10-07-16:48:03: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:03: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:06: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:06: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-controle-20241007-1645-162.pdf
+2024-10-07-16:48:06: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100902-87.2023.5.01.0070-controle-20241007-1645-508.pdf
+2024-10-07-16:48:06: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:06: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100902-87.2023.5.01.0070-controle-20241007-1645-508.pdf
+2024-10-07-16:48:06: Chave......: controle
+2024-10-07-16:48:06: Nome.......: controle
+2024-10-07-16:48:06: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:06: Citados....: []
+2024-10-07-16:48:06: Reclamadas.: []
+2024-10-07-16:48:06: Assunto..: controle - 0100902-87.2023.5.01.0070 - 2444 - 2024-10-07-16:48:06-2 
+2024-10-07-16:48:06: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:06: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:09: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:09: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100902-87.2023.5.01.0070-controle-20241007-1645-508.pdf
+2024-10-07-16:48:09: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010795-26.2024.5.03.0031-controle-20241007-1645-524.pdf
+2024-10-07-16:48:09: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:09: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010795-26.2024.5.03.0031-controle-20241007-1645-524.pdf
+2024-10-07-16:48:09: Chave......: controle
+2024-10-07-16:48:09: Nome.......: controle
+2024-10-07-16:48:09: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:09: Citados....: []
+2024-10-07-16:48:09: Reclamadas.: []
+2024-10-07-16:48:09: Assunto..: controle - 0010795-26.2024.5.03.0031 - 5583 - 2024-10-07-16:48:09-7 
+2024-10-07-16:48:09: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:09: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:11: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:11: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010795-26.2024.5.03.0031-controle-20241007-1645-524.pdf
+2024-10-07-16:48:11: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-controle-20241007-1645-773.pdf
+2024-10-07-16:48:11: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:11: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-controle-20241007-1645-773.pdf
+2024-10-07-16:48:11: Chave......: controle
+2024-10-07-16:48:11: Nome.......: controle
+2024-10-07-16:48:11: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:11: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:11: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:48:11: Assunto..: controle - 0011056-60.2023.5.03.0084 - 885 - 2024-10-07-16:48:11-1 
+2024-10-07-16:48:11: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:11: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:15: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:15: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-controle-20241007-1645-773.pdf
+2024-10-07-16:48:15: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000750-87.2022.5.09.0411-controle-20241007-1644-775.pdf
+2024-10-07-16:48:15: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:15: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000750-87.2022.5.09.0411-controle-20241007-1644-775.pdf
+2024-10-07-16:48:15: Chave......: controle
+2024-10-07-16:48:15: Nome.......: controle
+2024-10-07-16:48:15: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:15: Citados....: []
+2024-10-07-16:48:15: Reclamadas.: []
+2024-10-07-16:48:15: Assunto..: controle - 0000750-87.2022.5.09.0411 - 7349 - 2024-10-07-16:48:15-7 
+2024-10-07-16:48:15: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:15: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:17: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:17: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000750-87.2022.5.09.0411-controle-20241007-1644-775.pdf
+2024-10-07-16:48:17: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001317-53.2024.5.02.0241-controle-20241007-1645-234.pdf
+2024-10-07-16:48:17: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:17: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001317-53.2024.5.02.0241-controle-20241007-1645-234.pdf
+2024-10-07-16:48:17: Chave......: controle
+2024-10-07-16:48:17: Nome.......: controle
+2024-10-07-16:48:17: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:17: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:17: Reclamadas.: ['SOUZA LIMA', 'INTEGRAL']
+2024-10-07-16:48:17: Assunto..: controle - 1001317-53.2024.5.02.0241 - 16183 - 2024-10-07-16:48:17-10 
+2024-10-07-16:48:17: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:17: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:20: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:20: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001317-53.2024.5.02.0241-controle-20241007-1645-234.pdf
+2024-10-07-16:48:20: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001737-36.2024.5.02.0604-controle-20241007-1645-816.pdf
+2024-10-07-16:48:20: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:20: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001737-36.2024.5.02.0604-controle-20241007-1645-816.pdf
+2024-10-07-16:48:20: Chave......: controle
+2024-10-07-16:48:20: Nome.......: controle
+2024-10-07-16:48:20: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:20: Citados....: []
+2024-10-07-16:48:20: Reclamadas.: []
+2024-10-07-16:48:20: Assunto..: controle - 1001737-36.2024.5.02.0604 - 32368 - 2024-10-07-16:48:20-3 
+2024-10-07-16:48:20: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:20: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:22: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:22: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001737-36.2024.5.02.0604-controle-20241007-1645-816.pdf
+2024-10-07-16:48:22: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011086-78.2024.5.18.0008-controle-20241007-1646-829.pdf
+2024-10-07-16:48:22: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:22: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011086-78.2024.5.18.0008-controle-20241007-1646-829.pdf
+2024-10-07-16:48:22: Chave......: controle
+2024-10-07-16:48:22: Nome.......: controle
+2024-10-07-16:48:22: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:22: Citados....: []
+2024-10-07-16:48:22: Reclamadas.: []
+2024-10-07-16:48:22: Assunto..: controle - 0011086-78.2024.5.18.0008 - 1970 - 2024-10-07-16:48:22-1 
+2024-10-07-16:48:22: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:22: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:25: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:25: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011086-78.2024.5.18.0008-controle-20241007-1646-829.pdf
+2024-10-07-16:48:25: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000854-15.2023.5.02.0252-controle-20241007-1645-271.pdf
+2024-10-07-16:48:25: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:25: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000854-15.2023.5.02.0252-controle-20241007-1645-271.pdf
+2024-10-07-16:48:25: Chave......: controle
+2024-10-07-16:48:25: Nome.......: controle
+2024-10-07-16:48:25: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:25: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:25: Reclamadas.: []
+2024-10-07-16:48:25: Assunto..: controle - 1000854-15.2023.5.02.0252 - 25152 - 2024-10-07-16:48:25-2 
+2024-10-07-16:48:25: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:25: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:28: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:28: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000854-15.2023.5.02.0252-controle-20241007-1645-271.pdf
+2024-10-07-16:48:28: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-controle-20241007-1644-505.pdf
+2024-10-07-16:48:28: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:28: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-controle-20241007-1644-505.pdf
+2024-10-07-16:48:28: Chave......: controle
+2024-10-07-16:48:28: Nome.......: controle
+2024-10-07-16:48:28: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:28: Citados....: []
+2024-10-07-16:48:28: Reclamadas.: []
+2024-10-07-16:48:28: Assunto..: controle - 0001457-60.2023.5.17.0132 - 3178 - 2024-10-07-16:48:28-3 
+2024-10-07-16:48:28: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:28: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:30: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:30: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-controle-20241007-1644-505.pdf
+2024-10-07-16:48:30: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000386-11.2024.5.02.0254-controle-20241007-1645-803.pdf
+2024-10-07-16:48:30: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:30: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000386-11.2024.5.02.0254-controle-20241007-1645-803.pdf
+2024-10-07-16:48:30: Chave......: controle
+2024-10-07-16:48:30: Nome.......: controle
+2024-10-07-16:48:30: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:30: Citados....: []
+2024-10-07-16:48:30: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:48:30: Assunto..: controle - 1000386-11.2024.5.02.0254 - 11307 - 2024-10-07-16:48:30-4 
+2024-10-07-16:48:30: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:30: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:33: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:33: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000386-11.2024.5.02.0254-controle-20241007-1645-803.pdf
+2024-10-07-16:48:33: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-controle-20241007-1644-720.pdf
+2024-10-07-16:48:33: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:33: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-controle-20241007-1644-720.pdf
+2024-10-07-16:48:33: Chave......: controle
+2024-10-07-16:48:33: Nome.......: controle
+2024-10-07-16:48:33: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:33: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:33: Reclamadas.: []
+2024-10-07-16:48:33: Assunto..: controle - 1000882-88.2023.5.02.0605 - 845 - 2024-10-07-16:48:33-3 
+2024-10-07-16:48:33: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:33: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:35: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:35: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-controle-20241007-1644-720.pdf
+2024-10-07-16:48:35: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-controle-20241007-1644-375.pdf
+2024-10-07-16:48:35: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:35: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-controle-20241007-1644-375.pdf
+2024-10-07-16:48:35: Chave......: controle
+2024-10-07-16:48:35: Nome.......: controle
+2024-10-07-16:48:35: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:35: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:35: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:48:35: Assunto..: *** 48 HORAS *** controle - 0000442-78.2021.5.05.0029 - 401 - 2024-10-07-16:48:35-1 
+2024-10-07-16:48:35: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:35: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com', 'neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:38: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:38: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-controle-20241007-1644-375.pdf
+2024-10-07-16:48:38: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-controle-20241007-1645-110.pdf
+2024-10-07-16:48:38: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:38: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-controle-20241007-1645-110.pdf
+2024-10-07-16:48:38: Chave......: controle
+2024-10-07-16:48:38: Nome.......: controle
+2024-10-07-16:48:38: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:38: Citados....: []
+2024-10-07-16:48:38: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:48:38: Assunto..: controle - 1001475-62.2024.5.02.0612 - 14173 - 2024-10-07-16:48:38-4 
+2024-10-07-16:48:38: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:38: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:41: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:41: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-controle-20241007-1645-110.pdf
+2024-10-07-16:48:41: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010399-06.2023.5.18.0051-controle-20241007-1644-728.pdf
+2024-10-07-16:48:41: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:41: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010399-06.2023.5.18.0051-controle-20241007-1644-728.pdf
+2024-10-07-16:48:41: Chave......: controle
+2024-10-07-16:48:41: Nome.......: controle
+2024-10-07-16:48:41: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:41: Citados....: []
+2024-10-07-16:48:41: Reclamadas.: []
+2024-10-07-16:48:41: Assunto..: controle - 0010399-06.2023.5.18.0051 - 1615 - 2024-10-07-16:48:41-2 
+2024-10-07-16:48:41: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:41: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:43: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:43: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010399-06.2023.5.18.0051-controle-20241007-1644-728.pdf
+2024-10-07-16:48:43: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011243-35.2021.5.15.0042-controle-20241007-1644-770.pdf
+2024-10-07-16:48:43: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:43: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011243-35.2021.5.15.0042-controle-20241007-1644-770.pdf
+2024-10-07-16:48:43: Chave......: controle
+2024-10-07-16:48:43: Nome.......: controle
+2024-10-07-16:48:43: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:43: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:43: Reclamadas.: []
+2024-10-07-16:48:43: Assunto..: controle - 0011243-35.2021.5.15.0042 - 7154 - 2024-10-07-16:48:43-8 
+2024-10-07-16:48:43: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:43: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:46: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:46: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011243-35.2021.5.15.0042-controle-20241007-1644-770.pdf
+2024-10-07-16:48:46: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-controle-20241007-1646-877.pdf
+2024-10-07-16:48:46: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:46: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-controle-20241007-1646-877.pdf
+2024-10-07-16:48:46: Chave......: controle
+2024-10-07-16:48:46: Nome.......: controle
+2024-10-07-16:48:46: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:46: Citados....: []
+2024-10-07-16:48:46: Reclamadas.: []
+2024-10-07-16:48:46: Assunto..: controle - 0010201-30.2024.5.15.0014 - 72 - 2024-10-07-16:48:46-4 
+2024-10-07-16:48:46: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:46: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:49: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:49: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-controle-20241007-1646-877.pdf
+2024-10-07-16:48:49: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011115-67.2019.5.15.0015-controle-20241007-1645-999.pdf
+2024-10-07-16:48:49: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:49: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011115-67.2019.5.15.0015-controle-20241007-1645-999.pdf
+2024-10-07-16:48:49: Chave......: controle
+2024-10-07-16:48:49: Nome.......: controle
+2024-10-07-16:48:49: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:49: Citados....: []
+2024-10-07-16:48:49: Reclamadas.: []
+2024-10-07-16:48:49: Assunto..: controle - 0011115-67.2019.5.15.0015 - 1743 - 2024-10-07-16:48:49-6 
+2024-10-07-16:48:49: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:49: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:52: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:52: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011115-67.2019.5.15.0015-controle-20241007-1645-999.pdf
+2024-10-07-16:48:52: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010082-08.2023.5.03.0089-controle-20241007-1644-533.pdf
+2024-10-07-16:48:52: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:52: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010082-08.2023.5.03.0089-controle-20241007-1644-533.pdf
+2024-10-07-16:48:52: Chave......: controle
+2024-10-07-16:48:52: Nome.......: controle
+2024-10-07-16:48:52: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:52: Citados....: []
+2024-10-07-16:48:52: Reclamadas.: []
+2024-10-07-16:48:52: Assunto..: controle - 0010082-08.2023.5.03.0089 - 12453 - 2024-10-07-16:48:52-5 
+2024-10-07-16:48:52: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:52: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:54: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:54: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010082-08.2023.5.03.0089-controle-20241007-1644-533.pdf
+2024-10-07-16:48:54: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0020205-85.2024.5.04.0741-controle-20241007-1645-508.pdf
+2024-10-07-16:48:54: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:54: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0020205-85.2024.5.04.0741-controle-20241007-1645-508.pdf
+2024-10-07-16:48:54: Chave......: controle
+2024-10-07-16:48:54: Nome.......: controle
+2024-10-07-16:48:54: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:54: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:54: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:48:54: Assunto..: *** 48 HORAS *** controle - 0020205-85.2024.5.04.0741 - 9229 - 2024-10-07-16:48:54-6 
+2024-10-07-16:48:54: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:54: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com', 'neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:57: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:57: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0020205-85.2024.5.04.0741-controle-20241007-1645-508.pdf
+2024-10-07-16:48:57: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000375-24.2023.5.05.0133-controle-20241007-1644-564.pdf
+2024-10-07-16:48:57: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:57: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000375-24.2023.5.05.0133-controle-20241007-1644-564.pdf
+2024-10-07-16:48:57: Chave......: controle
+2024-10-07-16:48:57: Nome.......: controle
+2024-10-07-16:48:57: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:57: Citados....: ['SOUZA LIMA']
+2024-10-07-16:48:57: Reclamadas.: []
+2024-10-07-16:48:57: Assunto..: controle - 0000375-24.2023.5.05.0133 - 525 - 2024-10-07-16:48:57-6 
+2024-10-07-16:48:57: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:57: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:48:59: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:48:59: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000375-24.2023.5.05.0133-controle-20241007-1644-564.pdf
+2024-10-07-16:48:59: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001348-44.2024.5.02.0089-controle-20241007-1645-780.pdf
+2024-10-07-16:48:59: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:48:59: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001348-44.2024.5.02.0089-controle-20241007-1645-780.pdf
+2024-10-07-16:48:59: Chave......: controle
+2024-10-07-16:48:59: Nome.......: controle
+2024-10-07-16:48:59: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:48:59: Citados....: []
+2024-10-07-16:48:59: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:48:59: Assunto..: controle - 1001348-44.2024.5.02.0089 - 22578 - 2024-10-07-16:48:59-9 
+2024-10-07-16:48:59: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:48:59: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:02: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:02: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001348-44.2024.5.02.0089-controle-20241007-1645-780.pdf
+2024-10-07-16:49:02: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000369-82.2022.5.09.0022-controle-20241007-1644-721.pdf
+2024-10-07-16:49:02: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:02: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000369-82.2022.5.09.0022-controle-20241007-1644-721.pdf
+2024-10-07-16:49:02: Chave......: controle
+2024-10-07-16:49:02: Nome.......: controle
+2024-10-07-16:49:02: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:02: Citados....: []
+2024-10-07-16:49:02: Reclamadas.: []
+2024-10-07-16:49:02: Assunto..: controle - 0000369-82.2022.5.09.0022 - 5554 - 2024-10-07-16:49:02-6 
+2024-10-07-16:49:02: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:02: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:04: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:04: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000369-82.2022.5.09.0022-controle-20241007-1644-721.pdf
+2024-10-07-16:49:04: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011265-71.2023.5.15.0059-controle-20241007-1644-434.pdf
+2024-10-07-16:49:04: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:04: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011265-71.2023.5.15.0059-controle-20241007-1644-434.pdf
+2024-10-07-16:49:04: Chave......: controle
+2024-10-07-16:49:04: Nome.......: controle
+2024-10-07-16:49:04: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:04: Citados....: []
+2024-10-07-16:49:04: Reclamadas.: []
+2024-10-07-16:49:04: Assunto..: controle - 0011265-71.2023.5.15.0059 - 6986 - 2024-10-07-16:49:04-5 
+2024-10-07-16:49:04: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:04: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:07: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:07: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011265-71.2023.5.15.0059-controle-20241007-1644-434.pdf
+2024-10-07-16:49:07: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000987-61.2024.5.17.0013-controle-20241007-1646-556.pdf
+2024-10-07-16:49:07: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:07: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000987-61.2024.5.17.0013-controle-20241007-1646-556.pdf
+2024-10-07-16:49:07: Chave......: controle
+2024-10-07-16:49:07: Nome.......: controle
+2024-10-07-16:49:07: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:07: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:07: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:49:07: Assunto..: controle - 0000987-61.2024.5.17.0013 - 2109 - 2024-10-07-16:49:07-7 
+2024-10-07-16:49:07: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:07: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:09: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:09: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000987-61.2024.5.17.0013-controle-20241007-1646-556.pdf
+2024-10-07-16:49:09: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000435-58.2024.5.02.0252-controle-20241007-1646-759.pdf
+2024-10-07-16:49:09: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:09: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000435-58.2024.5.02.0252-controle-20241007-1646-759.pdf
+2024-10-07-16:49:09: Chave......: controle
+2024-10-07-16:49:09: Nome.......: controle
+2024-10-07-16:49:09: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:09: Citados....: []
+2024-10-07-16:49:09: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:49:09: Assunto..: controle - 1000435-58.2024.5.02.0252 - 510 - 2024-10-07-16:49:09-1 
+2024-10-07-16:49:09: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:09: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:12: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:12: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000435-58.2024.5.02.0252-controle-20241007-1646-759.pdf
+2024-10-07-16:49:12: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010275-98.2020.5.15.0087-controle-20241007-1644-266.pdf
+2024-10-07-16:49:12: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:12: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010275-98.2020.5.15.0087-controle-20241007-1644-266.pdf
+2024-10-07-16:49:12: Chave......: controle
+2024-10-07-16:49:12: Nome.......: controle
+2024-10-07-16:49:12: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:12: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:12: Reclamadas.: []
+2024-10-07-16:49:12: Assunto..: controle - 0010275-98.2020.5.15.0087 - 16368 - 2024-10-07-16:49:12-5 
+2024-10-07-16:49:12: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:12: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:14: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:14: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010275-98.2020.5.15.0087-controle-20241007-1644-266.pdf
+2024-10-07-16:49:14: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011272-42.2024.5.15.0087-controle-20241007-1645-113.pdf
+2024-10-07-16:49:14: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:14: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011272-42.2024.5.15.0087-controle-20241007-1645-113.pdf
+2024-10-07-16:49:14: Chave......: controle
+2024-10-07-16:49:14: Nome.......: controle
+2024-10-07-16:49:14: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:14: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:14: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:49:14: Assunto..: controle - 0011272-42.2024.5.15.0087 - 8408 - 2024-10-07-16:49:14-10 
+2024-10-07-16:49:14: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:14: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:17: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:17: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011272-42.2024.5.15.0087-controle-20241007-1645-113.pdf
+2024-10-07-16:49:17: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000288-65.2024.5.09.0022-controle-20241007-1645-579.pdf
+2024-10-07-16:49:17: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:17: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000288-65.2024.5.09.0022-controle-20241007-1645-579.pdf
+2024-10-07-16:49:17: Chave......: controle
+2024-10-07-16:49:17: Nome.......: controle
+2024-10-07-16:49:17: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:17: Citados....: []
+2024-10-07-16:49:17: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:49:17: Assunto..: controle - 0000288-65.2024.5.09.0022 - 8442 - 2024-10-07-16:49:17-9 
+2024-10-07-16:49:17: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:17: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:19: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:19: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000288-65.2024.5.09.0022-controle-20241007-1645-579.pdf
+2024-10-07-16:49:19: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010442-68.2019.5.15.0114-controle-20241007-1644-539.pdf
+2024-10-07-16:49:19: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:19: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010442-68.2019.5.15.0114-controle-20241007-1644-539.pdf
+2024-10-07-16:49:19: Chave......: controle
+2024-10-07-16:49:19: Nome.......: controle
+2024-10-07-16:49:19: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:19: Citados....: []
+2024-10-07-16:49:19: Reclamadas.: []
+2024-10-07-16:49:19: Assunto..: controle - 0010442-68.2019.5.15.0114 - 20150 - 2024-10-07-16:49:19-4 
+2024-10-07-16:49:19: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:19: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:22: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:22: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010442-68.2019.5.15.0114-controle-20241007-1644-539.pdf
+2024-10-07-16:49:22: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010274-98.2022.5.15.0134-controle-20241007-1644-815.pdf
+2024-10-07-16:49:22: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:22: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010274-98.2022.5.15.0134-controle-20241007-1644-815.pdf
+2024-10-07-16:49:22: Chave......: controle
+2024-10-07-16:49:22: Nome.......: controle
+2024-10-07-16:49:22: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:22: Citados....: []
+2024-10-07-16:49:22: Reclamadas.: []
+2024-10-07-16:49:22: Assunto..: controle - 0010274-98.2022.5.15.0134 - 16783 - 2024-10-07-16:49:22-3 
+2024-10-07-16:49:22: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:22: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:24: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:24: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010274-98.2022.5.15.0134-controle-20241007-1644-815.pdf
+2024-10-07-16:49:24: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011567-07.2024.5.15.0014-controle-20241007-1646-873.pdf
+2024-10-07-16:49:24: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:24: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011567-07.2024.5.15.0014-controle-20241007-1646-873.pdf
+2024-10-07-16:49:24: Chave......: controle
+2024-10-07-16:49:24: Nome.......: controle
+2024-10-07-16:49:24: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:24: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:24: Reclamadas.: []
+2024-10-07-16:49:24: Assunto..: controle - 0011567-07.2024.5.15.0014 - 19007 - 2024-10-07-16:49:24-8 
+2024-10-07-16:49:24: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:24: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:27: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:27: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011567-07.2024.5.15.0014-controle-20241007-1646-873.pdf
+2024-10-07-16:49:27: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010696-04.2024.5.03.0113-controle-20241007-1645-350.pdf
+2024-10-07-16:49:27: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:27: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010696-04.2024.5.03.0113-controle-20241007-1645-350.pdf
+2024-10-07-16:49:27: Chave......: controle
+2024-10-07-16:49:27: Nome.......: controle
+2024-10-07-16:49:27: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:27: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:27: Reclamadas.: []
+2024-10-07-16:49:27: Assunto..: controle - 0010696-04.2024.5.03.0113 - 3010 - 2024-10-07-16:49:27-4 
+2024-10-07-16:49:27: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:27: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:29: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:29: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010696-04.2024.5.03.0113-controle-20241007-1645-350.pdf
+2024-10-07-16:49:29: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011447-19.2023.5.15.0007-controle-20241007-1645-974.pdf
+2024-10-07-16:49:29: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:29: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011447-19.2023.5.15.0007-controle-20241007-1645-974.pdf
+2024-10-07-16:49:29: Chave......: controle
+2024-10-07-16:49:29: Nome.......: controle
+2024-10-07-16:49:29: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:29: Citados....: []
+2024-10-07-16:49:29: Reclamadas.: []
+2024-10-07-16:49:29: Assunto..: controle - 0011447-19.2023.5.15.0007 - 947 - 2024-10-07-16:49:29-9 
+2024-10-07-16:49:29: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:29: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:32: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:32: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011447-19.2023.5.15.0007-controle-20241007-1645-974.pdf
+2024-10-07-16:49:32: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010521-36.2023.5.18.0013-controle-20241007-1644-803.pdf
+2024-10-07-16:49:32: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:32: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010521-36.2023.5.18.0013-controle-20241007-1644-803.pdf
+2024-10-07-16:49:32: Chave......: controle
+2024-10-07-16:49:32: Nome.......: controle
+2024-10-07-16:49:32: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:32: Citados....: []
+2024-10-07-16:49:32: Reclamadas.: []
+2024-10-07-16:49:32: Assunto..: controle - 0010521-36.2023.5.18.0013 - 5 - 2024-10-07-16:49:32-6 
+2024-10-07-16:49:32: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:32: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:34: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:34: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010521-36.2023.5.18.0013-controle-20241007-1644-803.pdf
+2024-10-07-16:49:34: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010760-61.2023.5.03.0044-controle-20241007-1644-293.pdf
+2024-10-07-16:49:34: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:34: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010760-61.2023.5.03.0044-controle-20241007-1644-293.pdf
+2024-10-07-16:49:34: Chave......: controle
+2024-10-07-16:49:34: Nome.......: controle
+2024-10-07-16:49:34: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:34: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:34: Reclamadas.: []
+2024-10-07-16:49:34: Assunto..: controle - 0010760-61.2023.5.03.0044 - 3780 - 2024-10-07-16:49:34-6 
+2024-10-07-16:49:34: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:34: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:37: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:37: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010760-61.2023.5.03.0044-controle-20241007-1644-293.pdf
+2024-10-07-16:49:37: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0012217-59.2024.5.15.0077-controle-20241007-1646-690.pdf
+2024-10-07-16:49:37: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:37: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0012217-59.2024.5.15.0077-controle-20241007-1646-690.pdf
+2024-10-07-16:49:37: Chave......: controle
+2024-10-07-16:49:37: Nome.......: controle
+2024-10-07-16:49:37: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:37: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:37: Reclamadas.: []
+2024-10-07-16:49:37: Assunto..: controle - 0012217-59.2024.5.15.0077 - 15198 - 2024-10-07-16:49:37-3 
+2024-10-07-16:49:37: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:37: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:39: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:39: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0012217-59.2024.5.15.0077-controle-20241007-1646-690.pdf
+2024-10-07-16:49:39: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010676-48.2023.5.15.0134-controle-20241007-1645-942.pdf
+2024-10-07-16:49:39: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:39: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010676-48.2023.5.15.0134-controle-20241007-1645-942.pdf
+2024-10-07-16:49:39: Chave......: controle
+2024-10-07-16:49:39: Nome.......: controle
+2024-10-07-16:49:39: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:39: Citados....: []
+2024-10-07-16:49:39: Reclamadas.: []
+2024-10-07-16:49:39: Assunto..: controle - 0010676-48.2023.5.15.0134 - 5600 - 2024-10-07-16:49:39-1 
+2024-10-07-16:49:39: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:39: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:42: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:42: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010676-48.2023.5.15.0134-controle-20241007-1645-942.pdf
+2024-10-07-16:49:42: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010821-14.2022.5.15.0143-controle-20241007-1645-416.pdf
+2024-10-07-16:49:42: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:42: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010821-14.2022.5.15.0143-controle-20241007-1645-416.pdf
+2024-10-07-16:49:42: Chave......: controle
+2024-10-07-16:49:42: Nome.......: controle
+2024-10-07-16:49:42: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:42: Citados....: []
+2024-10-07-16:49:42: Reclamadas.: []
+2024-10-07-16:49:42: Assunto..: controle - 0010821-14.2022.5.15.0143 - 5669 - 2024-10-07-16:49:42-3 
+2024-10-07-16:49:42: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:42: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:44: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:44: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010821-14.2022.5.15.0143-controle-20241007-1645-416.pdf
+2024-10-07-16:49:44: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001250-69.2024.5.02.0603-controle-20241007-1646-904.pdf
+2024-10-07-16:49:44: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:44: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001250-69.2024.5.02.0603-controle-20241007-1646-904.pdf
+2024-10-07-16:49:44: Chave......: controle
+2024-10-07-16:49:44: Nome.......: controle
+2024-10-07-16:49:44: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:44: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:44: Reclamadas.: []
+2024-10-07-16:49:44: Assunto..: controle - 1001250-69.2024.5.02.0603 - 6899 - 2024-10-07-16:49:44-5 
+2024-10-07-16:49:44: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:44: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:47: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:47: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001250-69.2024.5.02.0603-controle-20241007-1646-904.pdf
+2024-10-07-16:49:47: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001654-49.2024.5.02.0271-controle-20241007-1645-171.pdf
+2024-10-07-16:49:47: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:47: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001654-49.2024.5.02.0271-controle-20241007-1645-171.pdf
+2024-10-07-16:49:47: Chave......: controle
+2024-10-07-16:49:47: Nome.......: controle
+2024-10-07-16:49:47: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:47: Citados....: []
+2024-10-07-16:49:47: Reclamadas.: []
+2024-10-07-16:49:47: Assunto..: controle - 1001654-49.2024.5.02.0271 - 32164 - 2024-10-07-16:49:47-2 
+2024-10-07-16:49:47: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:47: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:49: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:49: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001654-49.2024.5.02.0271-controle-20241007-1645-171.pdf
+2024-10-07-16:49:49: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010382-12.2023.5.03.0075-controle-20241007-1644-132.pdf
+2024-10-07-16:49:49: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:49: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010382-12.2023.5.03.0075-controle-20241007-1644-132.pdf
+2024-10-07-16:49:49: Chave......: controle
+2024-10-07-16:49:49: Nome.......: controle
+2024-10-07-16:49:49: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:49: Citados....: ['SOUZA LIMA']
+2024-10-07-16:49:49: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:49:49: Assunto..: controle - 0010382-12.2023.5.03.0075 - 3496 - 2024-10-07-16:49:49-3 
+2024-10-07-16:49:49: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:49: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:52: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:52: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010382-12.2023.5.03.0075-controle-20241007-1644-132.pdf
+2024-10-07-16:49:52: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0021283-95.2023.5.04.0403-controle-20241007-1645-854.pdf
+2024-10-07-16:49:52: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:52: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0021283-95.2023.5.04.0403-controle-20241007-1645-854.pdf
+2024-10-07-16:49:52: Chave......: controle
+2024-10-07-16:49:52: Nome.......: controle
+2024-10-07-16:49:52: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:52: Citados....: []
+2024-10-07-16:49:52: Reclamadas.: []
+2024-10-07-16:49:52: Assunto..: controle - 0021283-95.2023.5.04.0403 - 5266 - 2024-10-07-16:49:52-10 
+2024-10-07-16:49:52: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:52: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:54: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:54: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0021283-95.2023.5.04.0403-controle-20241007-1645-854.pdf
+2024-10-07-16:49:54: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000505-31.2024.5.02.0008-controle-20241007-1645-937.pdf
+2024-10-07-16:49:54: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:54: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000505-31.2024.5.02.0008-controle-20241007-1645-937.pdf
+2024-10-07-16:49:54: Chave......: controle
+2024-10-07-16:49:54: Nome.......: controle
+2024-10-07-16:49:54: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:54: Citados....: []
+2024-10-07-16:49:54: Reclamadas.: []
+2024-10-07-16:49:54: Assunto..: controle - 1000505-31.2024.5.02.0008 - 31964 - 2024-10-07-16:49:54-7 
+2024-10-07-16:49:54: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:54: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:57: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:57: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000505-31.2024.5.02.0008-controle-20241007-1645-937.pdf
+2024-10-07-16:49:57: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010660-58.2024.5.03.0178-controle-20241007-1645-331.pdf
+2024-10-07-16:49:57: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:57: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010660-58.2024.5.03.0178-controle-20241007-1645-331.pdf
+2024-10-07-16:49:57: Chave......: controle
+2024-10-07-16:49:57: Nome.......: controle
+2024-10-07-16:49:57: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:57: Citados....: []
+2024-10-07-16:49:57: Reclamadas.: []
+2024-10-07-16:49:57: Assunto..: controle - 0010660-58.2024.5.03.0178 - 18392 - 2024-10-07-16:49:57-4 
+2024-10-07-16:49:57: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:57: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:49:59: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:49:59: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010660-58.2024.5.03.0178-controle-20241007-1645-331.pdf
+2024-10-07-16:49:59: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001540-87.2024.5.02.0602-controle-20241007-1645-215.pdf
+2024-10-07-16:49:59: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:49:59: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001540-87.2024.5.02.0602-controle-20241007-1645-215.pdf
+2024-10-07-16:49:59: Chave......: controle
+2024-10-07-16:49:59: Nome.......: controle
+2024-10-07-16:49:59: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:49:59: Citados....: []
+2024-10-07-16:49:59: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:49:59: Assunto..: controle - 1001540-87.2024.5.02.0602 - 35101 - 2024-10-07-16:49:59-7 
+2024-10-07-16:49:59: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:49:59: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:02: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:02: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001540-87.2024.5.02.0602-controle-20241007-1645-215.pdf
+2024-10-07-16:50:02: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-controle-20241007-1645-603.pdf
+2024-10-07-16:50:02: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:02: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-controle-20241007-1645-603.pdf
+2024-10-07-16:50:02: Chave......: controle
+2024-10-07-16:50:02: Nome.......: controle
+2024-10-07-16:50:02: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:02: Citados....: []
+2024-10-07-16:50:02: Reclamadas.: []
+2024-10-07-16:50:02: Assunto..: controle - 0010797-23.2024.5.03.0022 - 15441 - 2024-10-07-16:50:02-9 
+2024-10-07-16:50:02: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:02: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:05: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:05: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-controle-20241007-1645-603.pdf
+2024-10-07-16:50:05: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100342-82.2022.5.01.0070-controle-20241007-1645-414.pdf
+2024-10-07-16:50:05: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:05: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100342-82.2022.5.01.0070-controle-20241007-1645-414.pdf
+2024-10-07-16:50:05: Chave......: controle
+2024-10-07-16:50:05: Nome.......: controle
+2024-10-07-16:50:05: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:05: Citados....: []
+2024-10-07-16:50:05: Reclamadas.: []
+2024-10-07-16:50:05: Assunto..: controle - 0100342-82.2022.5.01.0070 - 2597 - 2024-10-07-16:50:05-4 
+2024-10-07-16:50:05: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:05: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:07: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:07: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100342-82.2022.5.01.0070-controle-20241007-1645-414.pdf
+2024-10-07-16:50:07: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000414-72.2024.5.09.0004-controle-20241007-1645-629.pdf
+2024-10-07-16:50:07: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:07: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000414-72.2024.5.09.0004-controle-20241007-1645-629.pdf
+2024-10-07-16:50:07: Chave......: controle
+2024-10-07-16:50:07: Nome.......: controle
+2024-10-07-16:50:07: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:07: Citados....: []
+2024-10-07-16:50:07: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:50:07: Assunto..: controle - 0000414-72.2024.5.09.0004 - 9736 - 2024-10-07-16:50:07-4 
+2024-10-07-16:50:07: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:07: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:10: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:10: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000414-72.2024.5.09.0004-controle-20241007-1645-629.pdf
+2024-10-07-16:50:10: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-controle-20241007-1645-709.pdf
+2024-10-07-16:50:10: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:10: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-controle-20241007-1645-709.pdf
+2024-10-07-16:50:10: Chave......: controle
+2024-10-07-16:50:10: Nome.......: controle
+2024-10-07-16:50:10: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:10: Citados....: []
+2024-10-07-16:50:10: Reclamadas.: []
+2024-10-07-16:50:10: Assunto..: controle - 0010052-20.2024.5.03.0062 - 17285 - 2024-10-07-16:50:10-7 
+2024-10-07-16:50:10: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:10: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:12: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:12: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-controle-20241007-1645-709.pdf
+2024-10-07-16:50:12: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001582-30.2024.5.02.0702-controle-20241007-1645-232.pdf
+2024-10-07-16:50:12: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:12: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001582-30.2024.5.02.0702-controle-20241007-1645-232.pdf
+2024-10-07-16:50:12: Chave......: controle
+2024-10-07-16:50:12: Nome.......: controle
+2024-10-07-16:50:12: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:12: Citados....: []
+2024-10-07-16:50:12: Reclamadas.: ['SOUZA LIMA', 'INTEGRAL']
+2024-10-07-16:50:12: Assunto..: controle - 1001582-30.2024.5.02.0702 - 9364 - 2024-10-07-16:50:12-6 
+2024-10-07-16:50:12: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:12: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:15: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:15: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001582-30.2024.5.02.0702-controle-20241007-1645-232.pdf
+2024-10-07-16:50:15: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001983-42.2023.5.02.0612-controle-20241007-1645-592.pdf
+2024-10-07-16:50:15: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:15: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001983-42.2023.5.02.0612-controle-20241007-1645-592.pdf
+2024-10-07-16:50:15: Chave......: controle
+2024-10-07-16:50:15: Nome.......: controle
+2024-10-07-16:50:15: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:15: Citados....: []
+2024-10-07-16:50:15: Reclamadas.: []
+2024-10-07-16:50:15: Assunto..: controle - 1001983-42.2023.5.02.0612 - 26677 - 2024-10-07-16:50:15-3 
+2024-10-07-16:50:15: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:15: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:17: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:17: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001983-42.2023.5.02.0612-controle-20241007-1645-592.pdf
+2024-10-07-16:50:17: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010720-23.2024.5.03.0019-controle-20241007-1645-247.pdf
+2024-10-07-16:50:17: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:17: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010720-23.2024.5.03.0019-controle-20241007-1645-247.pdf
+2024-10-07-16:50:17: Chave......: controle
+2024-10-07-16:50:17: Nome.......: controle
+2024-10-07-16:50:17: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:17: Citados....: []
+2024-10-07-16:50:17: Reclamadas.: []
+2024-10-07-16:50:17: Assunto..: controle - 0010720-23.2024.5.03.0019 - 9374 - 2024-10-07-16:50:17-2 
+2024-10-07-16:50:17: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:17: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:20: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:20: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010720-23.2024.5.03.0019-controle-20241007-1645-247.pdf
+2024-10-07-16:50:20: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010704-95.2024.5.03.0075-controle-20241007-1645-561.pdf
+2024-10-07-16:50:20: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:20: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010704-95.2024.5.03.0075-controle-20241007-1645-561.pdf
+2024-10-07-16:50:20: Chave......: controle
+2024-10-07-16:50:20: Nome.......: controle
+2024-10-07-16:50:20: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:20: Citados....: ['SOUZA LIMA']
+2024-10-07-16:50:20: Reclamadas.: []
+2024-10-07-16:50:20: Assunto..: controle - 0010704-95.2024.5.03.0075 - 3291 - 2024-10-07-16:50:20-8 
+2024-10-07-16:50:20: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:20: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:22: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:22: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010704-95.2024.5.03.0075-controle-20241007-1645-561.pdf
+2024-10-07-16:50:22: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000613-64.2024.5.02.0718-controle-20241007-1645-961.pdf
+2024-10-07-16:50:22: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:22: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000613-64.2024.5.02.0718-controle-20241007-1645-961.pdf
+2024-10-07-16:50:22: Chave......: controle
+2024-10-07-16:50:22: Nome.......: controle
+2024-10-07-16:50:22: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:22: Citados....: []
+2024-10-07-16:50:22: Reclamadas.: []
+2024-10-07-16:50:22: Assunto..: controle - 1000613-64.2024.5.02.0718 - 3 - 2024-10-07-16:50:22-8 
+2024-10-07-16:50:22: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:22: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:24: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:24: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000613-64.2024.5.02.0718-controle-20241007-1645-961.pdf
+2024-10-07-16:50:24: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011145-83.2023.5.03.0084-controle-20241007-1645-426.pdf
+2024-10-07-16:50:24: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:24: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011145-83.2023.5.03.0084-controle-20241007-1645-426.pdf
+2024-10-07-16:50:24: Chave......: controle
+2024-10-07-16:50:24: Nome.......: controle
+2024-10-07-16:50:24: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:24: Citados....: []
+2024-10-07-16:50:24: Reclamadas.: []
+2024-10-07-16:50:24: Assunto..: controle - 0011145-83.2023.5.03.0084 - 14990 - 2024-10-07-16:50:24-2 
+2024-10-07-16:50:24: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:24: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:27: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:27: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011145-83.2023.5.03.0084-controle-20241007-1645-426.pdf
+2024-10-07-16:50:27: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000950-07.2024.5.02.0313-controle-20241007-1645-150.pdf
+2024-10-07-16:50:27: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:27: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000950-07.2024.5.02.0313-controle-20241007-1645-150.pdf
+2024-10-07-16:50:27: Chave......: controle
+2024-10-07-16:50:27: Nome.......: controle
+2024-10-07-16:50:27: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:27: Citados....: []
+2024-10-07-16:50:27: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:50:27: Assunto..: controle - 1000950-07.2024.5.02.0313 - 13859 - 2024-10-07-16:50:27-1 
+2024-10-07-16:50:27: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:27: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:29: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:29: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000950-07.2024.5.02.0313-controle-20241007-1645-150.pdf
+2024-10-07-16:50:29: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010770-51.2022.5.03.0041-controle-20241007-1644-531.pdf
+2024-10-07-16:50:29: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:29: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010770-51.2022.5.03.0041-controle-20241007-1644-531.pdf
+2024-10-07-16:50:29: Chave......: controle
+2024-10-07-16:50:29: Nome.......: controle
+2024-10-07-16:50:29: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:29: Citados....: []
+2024-10-07-16:50:29: Reclamadas.: []
+2024-10-07-16:50:29: Assunto..: controle - 0010770-51.2022.5.03.0041 - 6622 - 2024-10-07-16:50:29-8 
+2024-10-07-16:50:29: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:29: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:32: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:32: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010770-51.2022.5.03.0041-controle-20241007-1644-531.pdf
+2024-10-07-16:50:32: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011961-94.2023.5.15.0128-controle-20241007-1646-851.pdf
+2024-10-07-16:50:32: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:32: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011961-94.2023.5.15.0128-controle-20241007-1646-851.pdf
+2024-10-07-16:50:32: Chave......: controle
+2024-10-07-16:50:32: Nome.......: controle
+2024-10-07-16:50:32: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:32: Citados....: []
+2024-10-07-16:50:32: Reclamadas.: []
+2024-10-07-16:50:32: Assunto..: controle - 0011961-94.2023.5.15.0128 - 11449 - 2024-10-07-16:50:32-2 
+2024-10-07-16:50:32: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:32: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:34: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:34: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011961-94.2023.5.15.0128-controle-20241007-1646-851.pdf
+2024-10-07-16:50:34: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0012564-03.2022.5.15.0097-controle-20241007-1645-366.pdf
+2024-10-07-16:50:34: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:34: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0012564-03.2022.5.15.0097-controle-20241007-1645-366.pdf
+2024-10-07-16:50:34: Chave......: controle
+2024-10-07-16:50:34: Nome.......: controle
+2024-10-07-16:50:34: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:34: Citados....: []
+2024-10-07-16:50:34: Reclamadas.: []
+2024-10-07-16:50:35: Assunto..: controle - 0012564-03.2022.5.15.0097 - 120 - 2024-10-07-16:50:34-9 
+2024-10-07-16:50:35: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:35: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:37: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:37: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0012564-03.2022.5.15.0097-controle-20241007-1645-366.pdf
+2024-10-07-16:50:37: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101016-68.2024.5.01.0077-controle-20241007-1646-998.pdf
+2024-10-07-16:50:37: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:37: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101016-68.2024.5.01.0077-controle-20241007-1646-998.pdf
+2024-10-07-16:50:37: Chave......: controle
+2024-10-07-16:50:37: Nome.......: controle
+2024-10-07-16:50:37: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:37: Citados....: ['SOUZA LIMA']
+2024-10-07-16:50:37: Reclamadas.: []
+2024-10-07-16:50:37: Assunto..: controle - 0101016-68.2024.5.01.0077 - 16275 - 2024-10-07-16:50:37-4 
+2024-10-07-16:50:37: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:37: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:39: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:39: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0101016-68.2024.5.01.0077-controle-20241007-1646-998.pdf
+2024-10-07-16:50:39: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-controle-20241007-1646-661.pdf
+2024-10-07-16:50:39: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:39: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-controle-20241007-1646-661.pdf
+2024-10-07-16:50:39: Chave......: controle
+2024-10-07-16:50:39: Nome.......: controle
+2024-10-07-16:50:39: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:39: Citados....: []
+2024-10-07-16:50:39: Reclamadas.: []
+2024-10-07-16:50:39: Assunto..: controle - 0010558-35.2024.5.15.0038 - 5823 - 2024-10-07-16:50:39-4 
+2024-10-07-16:50:39: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:39: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:42: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:42: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-controle-20241007-1646-661.pdf
+2024-10-07-16:50:42: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-controle-20241007-1644-518.pdf
+2024-10-07-16:50:42: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:42: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-controle-20241007-1644-518.pdf
+2024-10-07-16:50:42: Chave......: controle
+2024-10-07-16:50:42: Nome.......: controle
+2024-10-07-16:50:42: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:42: Citados....: []
+2024-10-07-16:50:42: Reclamadas.: []
+2024-10-07-16:50:42: Assunto..: controle - 0010035-97.2024.5.03.0089 - 15983 - 2024-10-07-16:50:42-5 
+2024-10-07-16:50:42: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:42: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:45: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:45: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-controle-20241007-1644-518.pdf
+2024-10-07-16:50:45: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010224-85.2023.5.03.0097-controle-20241007-1644-720.pdf
+2024-10-07-16:50:45: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:45: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010224-85.2023.5.03.0097-controle-20241007-1644-720.pdf
+2024-10-07-16:50:45: Chave......: controle
+2024-10-07-16:50:45: Nome.......: controle
+2024-10-07-16:50:45: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:45: Citados....: []
+2024-10-07-16:50:45: Reclamadas.: []
+2024-10-07-16:50:45: Assunto..: controle - 0010224-85.2023.5.03.0097 - 1667 - 2024-10-07-16:50:45-1 
+2024-10-07-16:50:45: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:45: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:47: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:47: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010224-85.2023.5.03.0097-controle-20241007-1644-720.pdf
+2024-10-07-16:50:47: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000913-71.2024.5.02.0606-controle-20241007-1646-400.pdf
+2024-10-07-16:50:47: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:47: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000913-71.2024.5.02.0606-controle-20241007-1646-400.pdf
+2024-10-07-16:50:47: Chave......: controle
+2024-10-07-16:50:47: Nome.......: controle
+2024-10-07-16:50:47: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:47: Citados....: []
+2024-10-07-16:50:47: Reclamadas.: []
+2024-10-07-16:50:47: Assunto..: controle - 1000913-71.2024.5.02.0606 - 1723 - 2024-10-07-16:50:47-2 
+2024-10-07-16:50:47: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:47: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:50: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:50: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000913-71.2024.5.02.0606-controle-20241007-1646-400.pdf
+2024-10-07-16:50:50: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000463-28.2024.5.02.0607-controle-20241007-1645-873.pdf
+2024-10-07-16:50:50: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:50: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000463-28.2024.5.02.0607-controle-20241007-1645-873.pdf
+2024-10-07-16:50:50: Chave......: controle
+2024-10-07-16:50:50: Nome.......: controle
+2024-10-07-16:50:50: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:50: Citados....: []
+2024-10-07-16:50:50: Reclamadas.: []
+2024-10-07-16:50:50: Assunto..: controle - 1000463-28.2024.5.02.0607 - 29252 - 2024-10-07-16:50:50-2 
+2024-10-07-16:50:50: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:50: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:52: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:52: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000463-28.2024.5.02.0607-controle-20241007-1645-873.pdf
+2024-10-07-16:50:52: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010652-30.2024.5.03.0001-controle-20241007-1645-498.pdf
+2024-10-07-16:50:52: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:52: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010652-30.2024.5.03.0001-controle-20241007-1645-498.pdf
+2024-10-07-16:50:52: Chave......: controle
+2024-10-07-16:50:52: Nome.......: controle
+2024-10-07-16:50:52: Email......: neusa.sotana@gruposouzalima.com
+2024-10-07-16:50:52: Citados....: []
+2024-10-07-16:50:52: Reclamadas.: []
+2024-10-07-16:50:52: Assunto..: controle - 0010652-30.2024.5.03.0001 - 7221 - 2024-10-07-16:50:52-9 
+2024-10-07-16:50:52: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:52: to.......:['neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:50:55: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:55: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010652-30.2024.5.03.0001-controle-20241007-1645-498.pdf
+2024-10-07-16:50:55: dr-alecsandro - 'destino':'chave':'dr-alecsandro','nome':'Dr Alecsandro', 'email':'alecsandro.silva@gruposouzalima.com'
+2024-10-07-16:50:55: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011265-71.2023.5.15.0059-dr-alecsandro-20241007-1644-807.pdf
+2024-10-07-16:50:55: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:55: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011265-71.2023.5.15.0059-dr-alecsandro-20241007-1644-807.pdf
+2024-10-07-16:50:55: Chave......: dr-alecsandro
+2024-10-07-16:50:55: Nome.......: Dr Alecsandro
+2024-10-07-16:50:55: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:50:55: Citados....: []
+2024-10-07-16:50:55: Reclamadas.: []
+2024-10-07-16:50:55: Assunto..: Dr Alecsandro - 0011265-71.2023.5.15.0059 - 6986 - 2024-10-07-16:50:55-9 
+2024-10-07-16:50:55: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:55: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:50:57: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:50:57: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011265-71.2023.5.15.0059-dr-alecsandro-20241007-1644-807.pdf
+2024-10-07-16:50:57: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010399-06.2023.5.18.0051-dr-alecsandro-20241007-1644-878.pdf
+2024-10-07-16:50:57: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:50:57: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010399-06.2023.5.18.0051-dr-alecsandro-20241007-1644-878.pdf
+2024-10-07-16:50:57: Chave......: dr-alecsandro
+2024-10-07-16:50:57: Nome.......: Dr Alecsandro
+2024-10-07-16:50:57: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:50:57: Citados....: []
+2024-10-07-16:50:57: Reclamadas.: []
+2024-10-07-16:50:57: Assunto..: Dr Alecsandro - 0010399-06.2023.5.18.0051 - 1615 - 2024-10-07-16:50:57-4 
+2024-10-07-16:50:57: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:50:57: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:00: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:00: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010399-06.2023.5.18.0051-dr-alecsandro-20241007-1644-878.pdf
+2024-10-07-16:51:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-dr-alecsandro-20241007-1644-608.pdf
+2024-10-07-16:51:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:00: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-dr-alecsandro-20241007-1644-608.pdf
+2024-10-07-16:51:00: Chave......: dr-alecsandro
+2024-10-07-16:51:00: Nome.......: Dr Alecsandro
+2024-10-07-16:51:00: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:00: Citados....: []
+2024-10-07-16:51:00: Reclamadas.: []
+2024-10-07-16:51:00: Assunto..: Dr Alecsandro - 0010035-97.2024.5.03.0089 - 15983 - 2024-10-07-16:51:00-4 
+2024-10-07-16:51:00: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:00: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:02: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:02: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-dr-alecsandro-20241007-1644-608.pdf
+2024-10-07-16:51:02: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-dr-alecsandro-20241007-1646-920.pdf
+2024-10-07-16:51:02: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:02: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-dr-alecsandro-20241007-1646-920.pdf
+2024-10-07-16:51:02: Chave......: dr-alecsandro
+2024-10-07-16:51:02: Nome.......: Dr Alecsandro
+2024-10-07-16:51:02: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:02: Citados....: []
+2024-10-07-16:51:02: Reclamadas.: []
+2024-10-07-16:51:02: Assunto..: Dr Alecsandro - 0010692-80.2024.5.15.0129 - 17488 - 2024-10-07-16:51:02-7 
+2024-10-07-16:51:02: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:02: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:05: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:05: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-dr-alecsandro-20241007-1646-920.pdf
+2024-10-07-16:51:05: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-dr-alecsandro-20241007-1645-278.pdf
+2024-10-07-16:51:05: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:05: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-dr-alecsandro-20241007-1645-278.pdf
+2024-10-07-16:51:05: Chave......: dr-alecsandro
+2024-10-07-16:51:05: Nome.......: Dr Alecsandro
+2024-10-07-16:51:05: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:05: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:05: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:05: Assunto..: Dr Alecsandro - 0011056-60.2023.5.03.0084 - 885 - 2024-10-07-16:51:05-6 
+2024-10-07-16:51:05: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:05: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:08: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:08: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-dr-alecsandro-20241007-1645-278.pdf
+2024-10-07-16:51:08: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000375-24.2023.5.05.0133-dr-alecsandro-20241007-1644-530.pdf
+2024-10-07-16:51:08: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:08: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000375-24.2023.5.05.0133-dr-alecsandro-20241007-1644-530.pdf
+2024-10-07-16:51:08: Chave......: dr-alecsandro
+2024-10-07-16:51:08: Nome.......: Dr Alecsandro
+2024-10-07-16:51:08: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:08: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:08: Reclamadas.: []
+2024-10-07-16:51:08: Assunto..: Dr Alecsandro - 0000375-24.2023.5.05.0133 - 525 - 2024-10-07-16:51:08-7 
+2024-10-07-16:51:08: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:08: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:11: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:11: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000375-24.2023.5.05.0133-dr-alecsandro-20241007-1644-530.pdf
+2024-10-07-16:51:11: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000386-11.2024.5.02.0254-dr-alecsandro-20241007-1645-685.pdf
+2024-10-07-16:51:11: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:11: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000386-11.2024.5.02.0254-dr-alecsandro-20241007-1645-685.pdf
+2024-10-07-16:51:11: Chave......: dr-alecsandro
+2024-10-07-16:51:11: Nome.......: Dr Alecsandro
+2024-10-07-16:51:11: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:11: Citados....: []
+2024-10-07-16:51:11: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:11: Assunto..: Dr Alecsandro - 1000386-11.2024.5.02.0254 - 11307 - 2024-10-07-16:51:11-7 
+2024-10-07-16:51:11: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:11: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:13: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:13: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000386-11.2024.5.02.0254-dr-alecsandro-20241007-1645-685.pdf
+2024-10-07-16:51:13: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-dr-alecsandro-20241007-1644-988.pdf
+2024-10-07-16:51:13: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:13: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-dr-alecsandro-20241007-1644-988.pdf
+2024-10-07-16:51:13: Chave......: dr-alecsandro
+2024-10-07-16:51:13: Nome.......: Dr Alecsandro
+2024-10-07-16:51:13: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:13: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:13: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:13: Assunto..: *** 48 HORAS *** Dr Alecsandro - 0000442-78.2021.5.05.0029 - 401 - 2024-10-07-16:51:13-1 
+2024-10-07-16:51:13: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:13: to.......:['alecsandro.silva@gruposouzalima.com', 'neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:51:16: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:16: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-dr-alecsandro-20241007-1644-988.pdf
+2024-10-07-16:51:16: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-dr-alecsandro-20241007-1646-282.pdf
+2024-10-07-16:51:16: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:16: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-dr-alecsandro-20241007-1646-282.pdf
+2024-10-07-16:51:16: Chave......: dr-alecsandro
+2024-10-07-16:51:16: Nome.......: Dr Alecsandro
+2024-10-07-16:51:16: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:16: Citados....: []
+2024-10-07-16:51:16: Reclamadas.: []
+2024-10-07-16:51:16: Assunto..: Dr Alecsandro - 0010201-30.2024.5.15.0014 - 72 - 2024-10-07-16:51:16-8 
+2024-10-07-16:51:16: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:16: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:19: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:19: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-dr-alecsandro-20241007-1646-282.pdf
+2024-10-07-16:51:19: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000987-61.2024.5.17.0013-dr-alecsandro-20241007-1646-384.pdf
+2024-10-07-16:51:19: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:19: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000987-61.2024.5.17.0013-dr-alecsandro-20241007-1646-384.pdf
+2024-10-07-16:51:19: Chave......: dr-alecsandro
+2024-10-07-16:51:19: Nome.......: Dr Alecsandro
+2024-10-07-16:51:19: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:19: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:19: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:19: Assunto..: Dr Alecsandro - 0000987-61.2024.5.17.0013 - 2109 - 2024-10-07-16:51:19-5 
+2024-10-07-16:51:19: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:19: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:22: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:22: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000987-61.2024.5.17.0013-dr-alecsandro-20241007-1646-384.pdf
+2024-10-07-16:51:22: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-dr-alecsandro-20241007-1644-440.pdf
+2024-10-07-16:51:22: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:22: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-dr-alecsandro-20241007-1644-440.pdf
+2024-10-07-16:51:22: Chave......: dr-alecsandro
+2024-10-07-16:51:22: Nome.......: Dr Alecsandro
+2024-10-07-16:51:22: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:22: Citados....: []
+2024-10-07-16:51:22: Reclamadas.: []
+2024-10-07-16:51:22: Assunto..: Dr Alecsandro - 0000713-55.2023.5.17.0006 - 462 - 2024-10-07-16:51:22-6 
+2024-10-07-16:51:22: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:22: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:24: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:24: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-dr-alecsandro-20241007-1644-440.pdf
+2024-10-07-16:51:24: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-dr-alecsandro-20241007-1645-996.pdf
+2024-10-07-16:51:24: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:24: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-dr-alecsandro-20241007-1645-996.pdf
+2024-10-07-16:51:24: Chave......: dr-alecsandro
+2024-10-07-16:51:24: Nome.......: Dr Alecsandro
+2024-10-07-16:51:24: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:24: Citados....: []
+2024-10-07-16:51:24: Reclamadas.: []
+2024-10-07-16:51:24: Assunto..: Dr Alecsandro - 0010052-20.2024.5.03.0062 - 17285 - 2024-10-07-16:51:24-4 
+2024-10-07-16:51:24: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:24: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:27: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:27: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-dr-alecsandro-20241007-1645-996.pdf
+2024-10-07-16:51:27: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-dr-alecsandro-20241007-1645-369.pdf
+2024-10-07-16:51:27: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:27: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-dr-alecsandro-20241007-1645-369.pdf
+2024-10-07-16:51:27: Chave......: dr-alecsandro
+2024-10-07-16:51:27: Nome.......: Dr Alecsandro
+2024-10-07-16:51:27: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:27: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:27: Reclamadas.: ['INTEGRAL']
+2024-10-07-16:51:27: Assunto..: Dr Alecsandro - 0010753-37.2024.5.03.0108 - 7620 - 2024-10-07-16:51:27-8 
+2024-10-07-16:51:27: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:27: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:30: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:30: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-dr-alecsandro-20241007-1645-369.pdf
+2024-10-07-16:51:30: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-dr-alecsandro-20241007-1645-636.pdf
+2024-10-07-16:51:30: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:30: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-dr-alecsandro-20241007-1645-636.pdf
+2024-10-07-16:51:30: Chave......: dr-alecsandro
+2024-10-07-16:51:30: Nome.......: Dr Alecsandro
+2024-10-07-16:51:30: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:30: Citados....: []
+2024-10-07-16:51:30: Reclamadas.: []
+2024-10-07-16:51:30: Assunto..: Dr Alecsandro - 0010797-23.2024.5.03.0022 - 15441 - 2024-10-07-16:51:30-6 
+2024-10-07-16:51:30: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:30: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:32: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:32: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-dr-alecsandro-20241007-1645-636.pdf
+2024-10-07-16:51:32: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-dr-alecsandro-20241007-1644-557.pdf
+2024-10-07-16:51:32: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:32: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-dr-alecsandro-20241007-1644-557.pdf
+2024-10-07-16:51:32: Chave......: dr-alecsandro
+2024-10-07-16:51:32: Nome.......: Dr Alecsandro
+2024-10-07-16:51:32: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:32: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:32: Reclamadas.: []
+2024-10-07-16:51:32: Assunto..: Dr Alecsandro - 1000882-88.2023.5.02.0605 - 845 - 2024-10-07-16:51:32-5 
+2024-10-07-16:51:32: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:32: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:35: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:35: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-dr-alecsandro-20241007-1644-557.pdf
+2024-10-07-16:51:35: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000950-07.2024.5.02.0313-dr-alecsandro-20241007-1645-640.pdf
+2024-10-07-16:51:35: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:35: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000950-07.2024.5.02.0313-dr-alecsandro-20241007-1645-640.pdf
+2024-10-07-16:51:35: Chave......: dr-alecsandro
+2024-10-07-16:51:35: Nome.......: Dr Alecsandro
+2024-10-07-16:51:35: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:35: Citados....: []
+2024-10-07-16:51:35: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:35: Assunto..: Dr Alecsandro - 1000950-07.2024.5.02.0313 - 13859 - 2024-10-07-16:51:35-3 
+2024-10-07-16:51:35: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:35: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:37: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:37: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000950-07.2024.5.02.0313-dr-alecsandro-20241007-1645-640.pdf
+2024-10-07-16:51:37: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-dr-alecsandro-20241007-1645-847.pdf
+2024-10-07-16:51:37: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:37: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-dr-alecsandro-20241007-1645-847.pdf
+2024-10-07-16:51:37: Chave......: dr-alecsandro
+2024-10-07-16:51:37: Nome.......: Dr Alecsandro
+2024-10-07-16:51:37: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:37: Citados....: []
+2024-10-07-16:51:37: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:37: Assunto..: Dr Alecsandro - 1001475-62.2024.5.02.0612 - 14173 - 2024-10-07-16:51:37-2 
+2024-10-07-16:51:37: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:37: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:40: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:40: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-dr-alecsandro-20241007-1645-847.pdf
+2024-10-07-16:51:40: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000854-15.2023.5.02.0252-dr-alecsandro-20241007-1645-371.pdf
+2024-10-07-16:51:40: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:40: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000854-15.2023.5.02.0252-dr-alecsandro-20241007-1645-371.pdf
+2024-10-07-16:51:40: Chave......: dr-alecsandro
+2024-10-07-16:51:40: Nome.......: Dr Alecsandro
+2024-10-07-16:51:40: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:40: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:40: Reclamadas.: []
+2024-10-07-16:51:40: Assunto..: Dr Alecsandro - 1000854-15.2023.5.02.0252 - 25152 - 2024-10-07-16:51:40-9 
+2024-10-07-16:51:40: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:40: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:42: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:42: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000854-15.2023.5.02.0252-dr-alecsandro-20241007-1645-371.pdf
+2024-10-07-16:51:42: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000913-71.2024.5.02.0606-dr-alecsandro-20241007-1646-772.pdf
+2024-10-07-16:51:42: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:42: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000913-71.2024.5.02.0606-dr-alecsandro-20241007-1646-772.pdf
+2024-10-07-16:51:42: Chave......: dr-alecsandro
+2024-10-07-16:51:42: Nome.......: Dr Alecsandro
+2024-10-07-16:51:42: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:42: Citados....: []
+2024-10-07-16:51:42: Reclamadas.: []
+2024-10-07-16:51:42: Assunto..: Dr Alecsandro - 1000913-71.2024.5.02.0606 - 1723 - 2024-10-07-16:51:42-7 
+2024-10-07-16:51:42: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:42: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:45: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:45: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000913-71.2024.5.02.0606-dr-alecsandro-20241007-1646-772.pdf
+2024-10-07-16:51:45: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-dr-alecsandro-20241007-1646-315.pdf
+2024-10-07-16:51:45: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:45: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-dr-alecsandro-20241007-1646-315.pdf
+2024-10-07-16:51:45: Chave......: dr-alecsandro
+2024-10-07-16:51:45: Nome.......: Dr Alecsandro
+2024-10-07-16:51:45: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:45: Citados....: []
+2024-10-07-16:51:45: Reclamadas.: []
+2024-10-07-16:51:45: Assunto..: Dr Alecsandro - 0010558-35.2024.5.15.0038 - 5823 - 2024-10-07-16:51:45-1 
+2024-10-07-16:51:45: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:45: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:47: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:47: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-dr-alecsandro-20241007-1646-315.pdf
+2024-10-07-16:51:47: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001540-87.2024.5.02.0602-dr-alecsandro-20241007-1645-806.pdf
+2024-10-07-16:51:47: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:47: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001540-87.2024.5.02.0602-dr-alecsandro-20241007-1645-806.pdf
+2024-10-07-16:51:47: Chave......: dr-alecsandro
+2024-10-07-16:51:47: Nome.......: Dr Alecsandro
+2024-10-07-16:51:47: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:47: Citados....: []
+2024-10-07-16:51:47: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:47: Assunto..: Dr Alecsandro - 1001540-87.2024.5.02.0602 - 35101 - 2024-10-07-16:51:47-2 
+2024-10-07-16:51:47: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:47: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:50: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:50: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001540-87.2024.5.02.0602-dr-alecsandro-20241007-1645-806.pdf
+2024-10-07-16:51:50: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-dr-alecsandro-20241007-1644-721.pdf
+2024-10-07-16:51:50: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:50: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-dr-alecsandro-20241007-1644-721.pdf
+2024-10-07-16:51:50: Chave......: dr-alecsandro
+2024-10-07-16:51:50: Nome.......: Dr Alecsandro
+2024-10-07-16:51:50: Email......: alecsandro.silva@gruposouzalima.com
+2024-10-07-16:51:50: Citados....: []
+2024-10-07-16:51:50: Reclamadas.: []
+2024-10-07-16:51:50: Assunto..: Dr Alecsandro - 0001457-60.2023.5.17.0132 - 3178 - 2024-10-07-16:51:50-8 
+2024-10-07-16:51:50: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:50: to.......:['alecsandro.silva@gruposouzalima.com']
+2024-10-07-16:51:52: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:52: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-dr-alecsandro-20241007-1644-721.pdf
+2024-10-07-16:51:52: dra-ana - 'destino':'chave':'dra-ana','nome':'Dra Ana', 'email':'ana.takahashi@gruposouzalima.com'
+2024-10-07-16:51:52: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-dra-ana-20241007-1644-865.pdf
+2024-10-07-16:51:52: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:52: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-dra-ana-20241007-1644-865.pdf
+2024-10-07-16:51:52: Chave......: dra-ana
+2024-10-07-16:51:52: Nome.......: Dra Ana
+2024-10-07-16:51:52: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:51:52: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:52: Reclamadas.: []
+2024-10-07-16:51:52: Assunto..: Dra Ana - 1000882-88.2023.5.02.0605 - 845 - 2024-10-07-16:51:52-1 
+2024-10-07-16:51:52: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:52: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:51:55: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:55: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1000882-88.2023.5.02.0605-dra-ana-20241007-1644-865.pdf
+2024-10-07-16:51:55: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-dra-ana-20241007-1644-788.pdf
+2024-10-07-16:51:55: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:55: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-dra-ana-20241007-1644-788.pdf
+2024-10-07-16:51:55: Chave......: dra-ana
+2024-10-07-16:51:55: Nome.......: Dra Ana
+2024-10-07-16:51:55: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:51:55: Citados....: []
+2024-10-07-16:51:55: Reclamadas.: []
+2024-10-07-16:51:55: Assunto..: Dra Ana - 0000713-55.2023.5.17.0006 - 462 - 2024-10-07-16:51:55-2 
+2024-10-07-16:51:55: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:55: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:51:58: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:51:58: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000713-55.2023.5.17.0006-dra-ana-20241007-1644-788.pdf
+2024-10-07-16:51:58: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011272-42.2024.5.15.0087-dra-ana-20241007-1645-860.pdf
+2024-10-07-16:51:58: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:51:58: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011272-42.2024.5.15.0087-dra-ana-20241007-1645-860.pdf
+2024-10-07-16:51:58: Chave......: dra-ana
+2024-10-07-16:51:58: Nome.......: Dra Ana
+2024-10-07-16:51:58: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:51:58: Citados....: ['SOUZA LIMA']
+2024-10-07-16:51:58: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:51:58: Assunto..: Dra Ana - 0011272-42.2024.5.15.0087 - 8408 - 2024-10-07-16:51:58-4 
+2024-10-07-16:51:58: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:51:58: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:00: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:00: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011272-42.2024.5.15.0087-dra-ana-20241007-1645-860.pdf
+2024-10-07-16:52:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-dra-ana-20241007-1644-406.pdf
+2024-10-07-16:52:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:00: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-dra-ana-20241007-1644-406.pdf
+2024-10-07-16:52:00: Chave......: dra-ana
+2024-10-07-16:52:00: Nome.......: Dra Ana
+2024-10-07-16:52:00: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:00: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:00: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:52:00: Assunto..: *** 48 HORAS *** Dra Ana - 0000442-78.2021.5.05.0029 - 401 - 2024-10-07-16:52:00-6 
+2024-10-07-16:52:00: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:00: to.......:['ana.takahashi@gruposouzalima.com', 'neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:52:03: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:03: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0000442-78.2021.5.05.0029-dra-ana-20241007-1644-406.pdf
+2024-10-07-16:52:03: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-dra-ana-20241007-1645-273.pdf
+2024-10-07-16:52:03: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:03: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-dra-ana-20241007-1645-273.pdf
+2024-10-07-16:52:03: Chave......: dra-ana
+2024-10-07-16:52:03: Nome.......: Dra Ana
+2024-10-07-16:52:03: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:03: Citados....: []
+2024-10-07-16:52:03: Reclamadas.: []
+2024-10-07-16:52:03: Assunto..: Dra Ana - 0010797-23.2024.5.03.0022 - 15441 - 2024-10-07-16:52:03-10 
+2024-10-07-16:52:03: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:03: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:05: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:05: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010797-23.2024.5.03.0022-dra-ana-20241007-1645-273.pdf
+2024-10-07-16:52:05: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-dra-ana-20241007-1645-331.pdf
+2024-10-07-16:52:05: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:05: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-dra-ana-20241007-1645-331.pdf
+2024-10-07-16:52:05: Chave......: dra-ana
+2024-10-07-16:52:05: Nome.......: Dra Ana
+2024-10-07-16:52:05: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:05: Citados....: []
+2024-10-07-16:52:05: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:52:05: Assunto..: Dra Ana - 1001475-62.2024.5.02.0612 - 14173 - 2024-10-07-16:52:05-9 
+2024-10-07-16:52:05: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:05: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:08: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:08: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001475-62.2024.5.02.0612-dra-ana-20241007-1645-331.pdf
+2024-10-07-16:52:08: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-dra-ana-20241007-1645-712.pdf
+2024-10-07-16:52:08: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:08: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-dra-ana-20241007-1645-712.pdf
+2024-10-07-16:52:08: Chave......: dra-ana
+2024-10-07-16:52:08: Nome.......: Dra Ana
+2024-10-07-16:52:08: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:08: Citados....: []
+2024-10-07-16:52:08: Reclamadas.: []
+2024-10-07-16:52:08: Assunto..: Dra Ana - 0010052-20.2024.5.03.0062 - 17285 - 2024-10-07-16:52:08-8 
+2024-10-07-16:52:08: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:08: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:10: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:10: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010052-20.2024.5.03.0062-dra-ana-20241007-1645-712.pdf
+2024-10-07-16:52:10: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100902-87.2023.5.01.0070-dra-ana-20241007-1645-195.pdf
+2024-10-07-16:52:10: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:10: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100902-87.2023.5.01.0070-dra-ana-20241007-1645-195.pdf
+2024-10-07-16:52:10: Chave......: dra-ana
+2024-10-07-16:52:10: Nome.......: Dra Ana
+2024-10-07-16:52:10: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:10: Citados....: []
+2024-10-07-16:52:10: Reclamadas.: []
+2024-10-07-16:52:11: Assunto..: Dra Ana - 0100902-87.2023.5.01.0070 - 2444 - 2024-10-07-16:52:10-9 
+2024-10-07-16:52:11: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:11: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:13: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:13: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100902-87.2023.5.01.0070-dra-ana-20241007-1645-195.pdf
+2024-10-07-16:52:13: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011961-94.2023.5.15.0128-dra-ana-20241007-1646-555.pdf
+2024-10-07-16:52:13: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:13: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011961-94.2023.5.15.0128-dra-ana-20241007-1646-555.pdf
+2024-10-07-16:52:13: Chave......: dra-ana
+2024-10-07-16:52:13: Nome.......: Dra Ana
+2024-10-07-16:52:13: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:13: Citados....: []
+2024-10-07-16:52:13: Reclamadas.: []
+2024-10-07-16:52:13: Assunto..: Dra Ana - 0011961-94.2023.5.15.0128 - 11449 - 2024-10-07-16:52:13-8 
+2024-10-07-16:52:13: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:13: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:16: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:16: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011961-94.2023.5.15.0128-dra-ana-20241007-1646-555.pdf
+2024-10-07-16:52:16: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100342-82.2022.5.01.0070-dra-ana-20241007-1645-700.pdf
+2024-10-07-16:52:16: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:16: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100342-82.2022.5.01.0070-dra-ana-20241007-1645-700.pdf
+2024-10-07-16:52:16: Chave......: dra-ana
+2024-10-07-16:52:16: Nome.......: Dra Ana
+2024-10-07-16:52:16: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:16: Citados....: []
+2024-10-07-16:52:16: Reclamadas.: []
+2024-10-07-16:52:16: Assunto..: Dra Ana - 0100342-82.2022.5.01.0070 - 2597 - 2024-10-07-16:52:16-8 
+2024-10-07-16:52:16: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:16: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:18: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:18: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0100342-82.2022.5.01.0070-dra-ana-20241007-1645-700.pdf
+2024-10-07-16:52:18: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-dra-ana-20241007-1645-684.pdf
+2024-10-07-16:52:18: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:18: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-dra-ana-20241007-1645-684.pdf
+2024-10-07-16:52:18: Chave......: dra-ana
+2024-10-07-16:52:18: Nome.......: Dra Ana
+2024-10-07-16:52:18: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:18: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:18: Reclamadas.: ['INTEGRAL']
+2024-10-07-16:52:18: Assunto..: Dra Ana - 0010753-37.2024.5.03.0108 - 7620 - 2024-10-07-16:52:18-2 
+2024-10-07-16:52:18: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:18: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:21: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:21: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010753-37.2024.5.03.0108-dra-ana-20241007-1645-684.pdf
+2024-10-07-16:52:21: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-dra-ana-20241007-1644-713.pdf
+2024-10-07-16:52:21: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:21: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-dra-ana-20241007-1644-713.pdf
+2024-10-07-16:52:21: Chave......: dra-ana
+2024-10-07-16:52:21: Nome.......: Dra Ana
+2024-10-07-16:52:21: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:21: Citados....: []
+2024-10-07-16:52:21: Reclamadas.: []
+2024-10-07-16:52:21: Assunto..: Dra Ana - 0010035-97.2024.5.03.0089 - 15983 - 2024-10-07-16:52:21-9 
+2024-10-07-16:52:21: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:21: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:23: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:23: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010035-97.2024.5.03.0089-dra-ana-20241007-1644-713.pdf
+2024-10-07-16:52:23: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-dra-ana-20241007-1646-246.pdf
+2024-10-07-16:52:23: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:23: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-dra-ana-20241007-1646-246.pdf
+2024-10-07-16:52:23: Chave......: dra-ana
+2024-10-07-16:52:23: Nome.......: Dra Ana
+2024-10-07-16:52:23: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:23: Citados....: []
+2024-10-07-16:52:23: Reclamadas.: []
+2024-10-07-16:52:23: Assunto..: Dra Ana - 0010558-35.2024.5.15.0038 - 5823 - 2024-10-07-16:52:23-6 
+2024-10-07-16:52:23: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:23: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:26: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:26: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010558-35.2024.5.15.0038-dra-ana-20241007-1646-246.pdf
+2024-10-07-16:52:26: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0020205-85.2024.5.04.0741-dra-ana-20241007-1645-933.pdf
+2024-10-07-16:52:26: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:26: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0020205-85.2024.5.04.0741-dra-ana-20241007-1645-933.pdf
+2024-10-07-16:52:26: Chave......: dra-ana
+2024-10-07-16:52:26: Nome.......: Dra Ana
+2024-10-07-16:52:26: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:26: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:26: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:52:26: Assunto..: *** 48 HORAS *** Dra Ana - 0020205-85.2024.5.04.0741 - 9229 - 2024-10-07-16:52:26-10 
+2024-10-07-16:52:26: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:26: to.......:['ana.takahashi@gruposouzalima.com', 'neusa.sotana@gruposouzalima.com', 'mariana.gallo@gruposouzalima.com']
+2024-10-07-16:52:28: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:28: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0020205-85.2024.5.04.0741-dra-ana-20241007-1645-933.pdf
+2024-10-07-16:52:28: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-dra-ana-20241007-1644-557.pdf
+2024-10-07-16:52:28: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:28: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-dra-ana-20241007-1644-557.pdf
+2024-10-07-16:52:28: Chave......: dra-ana
+2024-10-07-16:52:28: Nome.......: Dra Ana
+2024-10-07-16:52:28: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:28: Citados....: []
+2024-10-07-16:52:28: Reclamadas.: []
+2024-10-07-16:52:28: Assunto..: Dra Ana - 0001457-60.2023.5.17.0132 - 3178 - 2024-10-07-16:52:28-1 
+2024-10-07-16:52:28: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:28: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:31: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:31: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0001457-60.2023.5.17.0132-dra-ana-20241007-1644-557.pdf
+2024-10-07-16:52:31: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011447-19.2023.5.15.0007-dra-ana-20241007-1645-294.pdf
+2024-10-07-16:52:31: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:31: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011447-19.2023.5.15.0007-dra-ana-20241007-1645-294.pdf
+2024-10-07-16:52:31: Chave......: dra-ana
+2024-10-07-16:52:31: Nome.......: Dra Ana
+2024-10-07-16:52:31: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:31: Citados....: []
+2024-10-07-16:52:31: Reclamadas.: []
+2024-10-07-16:52:31: Assunto..: Dra Ana - 0011447-19.2023.5.15.0007 - 947 - 2024-10-07-16:52:31-1 
+2024-10-07-16:52:31: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:31: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:33: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:33: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011447-19.2023.5.15.0007-dra-ana-20241007-1645-294.pdf
+2024-10-07-16:52:33: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010442-68.2019.5.15.0114-dra-ana-20241007-1644-707.pdf
+2024-10-07-16:52:33: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:33: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010442-68.2019.5.15.0114-dra-ana-20241007-1644-707.pdf
+2024-10-07-16:52:33: Chave......: dra-ana
+2024-10-07-16:52:33: Nome.......: Dra Ana
+2024-10-07-16:52:33: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:33: Citados....: []
+2024-10-07-16:52:33: Reclamadas.: []
+2024-10-07-16:52:33: Assunto..: Dra Ana - 0010442-68.2019.5.15.0114 - 20150 - 2024-10-07-16:52:33-8 
+2024-10-07-16:52:33: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:33: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:36: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:36: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010442-68.2019.5.15.0114-dra-ana-20241007-1644-707.pdf
+2024-10-07-16:52:36: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011115-67.2019.5.15.0015-dra-ana-20241007-1645-458.pdf
+2024-10-07-16:52:36: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:36: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011115-67.2019.5.15.0015-dra-ana-20241007-1645-458.pdf
+2024-10-07-16:52:36: Chave......: dra-ana
+2024-10-07-16:52:36: Nome.......: Dra Ana
+2024-10-07-16:52:36: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:36: Citados....: []
+2024-10-07-16:52:36: Reclamadas.: []
+2024-10-07-16:52:36: Assunto..: Dra Ana - 0011115-67.2019.5.15.0015 - 1743 - 2024-10-07-16:52:36-1 
+2024-10-07-16:52:36: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:36: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:38: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:38: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011115-67.2019.5.15.0015-dra-ana-20241007-1645-458.pdf
+2024-10-07-16:52:38: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-dra-ana-20241007-1646-405.pdf
+2024-10-07-16:52:38: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:38: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-dra-ana-20241007-1646-405.pdf
+2024-10-07-16:52:38: Chave......: dra-ana
+2024-10-07-16:52:38: Nome.......: Dra Ana
+2024-10-07-16:52:38: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:38: Citados....: []
+2024-10-07-16:52:38: Reclamadas.: []
+2024-10-07-16:52:38: Assunto..: Dra Ana - 0010692-80.2024.5.15.0129 - 17488 - 2024-10-07-16:52:38-9 
+2024-10-07-16:52:38: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:38: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:41: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:41: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010692-80.2024.5.15.0129-dra-ana-20241007-1646-405.pdf
+2024-10-07-16:52:41: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-dra-ana-20241007-1646-452.pdf
+2024-10-07-16:52:41: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:41: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-dra-ana-20241007-1646-452.pdf
+2024-10-07-16:52:41: Chave......: dra-ana
+2024-10-07-16:52:41: Nome.......: Dra Ana
+2024-10-07-16:52:41: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:41: Citados....: []
+2024-10-07-16:52:41: Reclamadas.: []
+2024-10-07-16:52:41: Assunto..: Dra Ana - 0010201-30.2024.5.15.0014 - 72 - 2024-10-07-16:52:41-9 
+2024-10-07-16:52:41: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:41: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:44: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:44: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010201-30.2024.5.15.0014-dra-ana-20241007-1646-452.pdf
+2024-10-07-16:52:44: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010224-85.2023.5.03.0097-dra-ana-20241007-1644-763.pdf
+2024-10-07-16:52:44: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:44: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010224-85.2023.5.03.0097-dra-ana-20241007-1644-763.pdf
+2024-10-07-16:52:44: Chave......: dra-ana
+2024-10-07-16:52:44: Nome.......: Dra Ana
+2024-10-07-16:52:44: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:44: Citados....: []
+2024-10-07-16:52:44: Reclamadas.: []
+2024-10-07-16:52:44: Assunto..: Dra Ana - 0010224-85.2023.5.03.0097 - 1667 - 2024-10-07-16:52:44-6 
+2024-10-07-16:52:44: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:44: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:47: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:47: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010224-85.2023.5.03.0097-dra-ana-20241007-1644-763.pdf
+2024-10-07-16:52:47: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010760-61.2023.5.03.0044-dra-ana-20241007-1644-983.pdf
+2024-10-07-16:52:47: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:47: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010760-61.2023.5.03.0044-dra-ana-20241007-1644-983.pdf
+2024-10-07-16:52:47: Chave......: dra-ana
+2024-10-07-16:52:47: Nome.......: Dra Ana
+2024-10-07-16:52:47: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:47: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:47: Reclamadas.: []
+2024-10-07-16:52:47: Assunto..: Dra Ana - 0010760-61.2023.5.03.0044 - 3780 - 2024-10-07-16:52:47-1 
+2024-10-07-16:52:47: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:47: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:49: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:49: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010760-61.2023.5.03.0044-dra-ana-20241007-1644-983.pdf
+2024-10-07-16:52:49: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-dra-ana-20241007-1645-824.pdf
+2024-10-07-16:52:49: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:49: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-dra-ana-20241007-1645-824.pdf
+2024-10-07-16:52:49: Chave......: dra-ana
+2024-10-07-16:52:49: Nome.......: Dra Ana
+2024-10-07-16:52:49: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:49: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:49: Reclamadas.: ['SOUZA LIMA']
+2024-10-07-16:52:49: Assunto..: Dra Ana - 0011056-60.2023.5.03.0084 - 885 - 2024-10-07-16:52:49-3 
+2024-10-07-16:52:49: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:49: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:53: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:53: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011056-60.2023.5.03.0084-dra-ana-20241007-1645-824.pdf
+2024-10-07-16:52:53: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011243-35.2021.5.15.0042-dra-ana-20241007-1644-122.pdf
+2024-10-07-16:52:53: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:53: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011243-35.2021.5.15.0042-dra-ana-20241007-1644-122.pdf
+2024-10-07-16:52:53: Chave......: dra-ana
+2024-10-07-16:52:53: Nome.......: Dra Ana
+2024-10-07-16:52:53: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:53: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:53: Reclamadas.: []
+2024-10-07-16:52:53: Assunto..: Dra Ana - 0011243-35.2021.5.15.0042 - 7154 - 2024-10-07-16:52:53-4 
+2024-10-07-16:52:53: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:53: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:55: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:55: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0011243-35.2021.5.15.0042-dra-ana-20241007-1644-122.pdf
+2024-10-07-16:52:55: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010082-08.2023.5.03.0089-dra-ana-20241007-1644-649.pdf
+2024-10-07-16:52:55: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:55: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010082-08.2023.5.03.0089-dra-ana-20241007-1644-649.pdf
+2024-10-07-16:52:55: Chave......: dra-ana
+2024-10-07-16:52:55: Nome.......: Dra Ana
+2024-10-07-16:52:55: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:55: Citados....: []
+2024-10-07-16:52:55: Reclamadas.: []
+2024-10-07-16:52:55: Assunto..: Dra Ana - 0010082-08.2023.5.03.0089 - 12453 - 2024-10-07-16:52:55-9 
+2024-10-07-16:52:55: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:55: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:52:58: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:52:58: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010082-08.2023.5.03.0089-dra-ana-20241007-1644-649.pdf
+2024-10-07-16:52:58: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001250-69.2024.5.02.0603-dra-ana-20241007-1645-725.pdf
+2024-10-07-16:52:58: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:52:58: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001250-69.2024.5.02.0603-dra-ana-20241007-1645-725.pdf
+2024-10-07-16:52:58: Chave......: dra-ana
+2024-10-07-16:52:58: Nome.......: Dra Ana
+2024-10-07-16:52:58: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:52:58: Citados....: ['SOUZA LIMA']
+2024-10-07-16:52:58: Reclamadas.: []
+2024-10-07-16:52:58: Assunto..: Dra Ana - 1001250-69.2024.5.02.0603 - 6899 - 2024-10-07-16:52:58-4 
+2024-10-07-16:52:58: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:52:58: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:53:00: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:53:00: removido: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-1001250-69.2024.5.02.0603-dra-ana-20241007-1645-725.pdf
+2024-10-07-16:53:00: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010652-30.2024.5.03.0001-dra-ana-20241007-1645-317.pdf
+2024-10-07-16:53:00: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:53:00: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010652-30.2024.5.03.0001-dra-ana-20241007-1645-317.pdf
+2024-10-07-16:53:00: Chave......: dra-ana
+2024-10-07-16:53:00: Nome.......: Dra Ana
+2024-10-07-16:53:00: Email......: ana.takahashi@gruposouzalima.com
+2024-10-07-16:53:00: Citados....: []
+2024-10-07-16:53:00: Reclamadas.: []
+2024-10-07-16:53:00: Assunto..: Dra Ana - 0010652-30.2024.5.03.0001 - 7221 - 2024-10-07-16:53:00-7 
+2024-10-07-16:53:00: from.....: juridico.publicacao@gruposouzalima.com
+2024-10-07-16:53:00: to.......:['ana.takahashi@gruposouzalima.com']
+2024-10-07-16:53:03: ****************************   EMAIL ENVIADO   ****************************
+2024-10-07-16:53:03: [Errno 2] No such file or directory: '/opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010652-30.2024.5.03.0001-dra-ana-20241007-1645-317.pdf'
+2024-10-07-16:53:03: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010696-04.2024.5.03.0113-dra-ana-20241007-1645-741.pdf
+2024-10-07-16:53:03: -----------------------  INICIO DE ENVIO  ----------------------------
+2024-10-07-16:53:03: Arquivo....: /opt/bitnami/nginx/html/py-ocr/src/publicacoes-v3/saida/publicacao-0010696-04.2024.5.03.0113-dra-ana-20241007-1645-741.pdf
+2024-10-07-16:53:03: Chave......: dra-ana
+2024-10-07-16:53:03: Nome.......: Dra Ana
+2024-10-07-16:53:03: Email......: ana.takahashi@gruposouzalima.com
